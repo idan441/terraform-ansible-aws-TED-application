@@ -195,6 +195,6 @@ Using AWS cloud services cost cash!!! Make sure to terminate the instances when 
 Also note, that this example is using AMIs which, at the time of making this exmaple, are free - but the price of them can change. 
 By running this script, you take full responsibility on any expanse and any cost done by this example. 
 
-****Make sure to destroy all resources by typing the command ```terraform destroy``` while in the terraform directory. Also connect physically to the aws console - and make sure no resource are left! ****
+**Make sure to destroy all resources by typing the command ```terraform destroy``` while in the terraform directory. Also connect physically to the aws console - and make sure no resource are left!**
 
 
