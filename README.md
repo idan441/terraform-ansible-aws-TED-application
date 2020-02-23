@@ -2,9 +2,9 @@
 
 This example, will show how to use two new brand technologies - Terraform and Ansible. Both technologies are new and well-adapted in the Hi-Tech industry, mainly by DevOps roles. This example will teach you the fundemental basics of both these technologies. Also, I will be explaining some interesting concepts of networking and using Amazon Web Services (AWS) which is an important cloud provider at the industry. 
 
-*** I have been adding many explanations along the Terraform and Ansible script in order to make it as easy to understand as possible. In this example I explain step by step how to use both Terraform and Ansible, assuming you have no prior knowledge or experience with these two technologies. ***
+**I have been adding many explanations along the Terraform and Ansible script in order to make it as easy to understand as possible. In this example I explain step by step how to use both Terraform and Ansible, assuming you have no prior knowledge or experience with these two technologies.**
 
-*** The main explanations and knowledge is written in the files ```main.tf``` and ```playbook.yml``` , near the commands themselves. *** 
+**The main explanations and knowledge is written in the files ```main.tf``` and ```playbook.yml``` , near the commands themselves.** 
 
 
 # The example will create a full cloud solution using Terraform and Ansible - 
