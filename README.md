@@ -1,4 +1,4 @@
-# running TED application on Amazon cloud - using Terraform and Ansible 
+# running TED application on Amazon cloud - using Terraform and Ansible - an easy step by step with full explanations example
 
 This example, will show how to use two new brand technologies - Terraform and Ansible. Both technologies are new and well-adapted in the Hi-Tech industry, mainly by DevOps roles. This example will teach you the fundemental basics of both these technologies. Also, I will be explaining some interesting concepts of networking and using Amazon Web Services (AWS) which is an important cloud provider at the industry. 
 
