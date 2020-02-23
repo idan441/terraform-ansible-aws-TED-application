@@ -1,0 +1,9 @@
+#This is an example for a generated inventory.txt file. This file is generated after running the main.tf terraform script. 
+#When running this script, the file will be overwritten with the current list of created instances. 
+[nginx]
+bitnami@ec2-18-189-6-135.us-east-2.compute.amazonaws.com
+
+
+[java8]
+ec2-user@ec2-18-221-15-149.us-east-2.compute.amazonaws.com
+

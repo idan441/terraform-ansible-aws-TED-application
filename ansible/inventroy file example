@@ -1,0 +1,12 @@
+#This is an example of an inventroy file made by the Terraform script. 
+#This file defined two groups - nginx nad java8 , each group is having one instance. 
+#Each instance is defined by its user name and public DNS address. ( Ansible will use these to connect via ssh command - " ssh root@address " ) 
+
+
+[nginx]
+bitnami@ec2-13-59-126-188.us-east-2.compute.amazonaws.com
+
+
+[java8]
+ec2-user@ec2-18-191-10-217.us-east-2.compute.amazonaws.com
+

@@ -1,0 +1,6 @@
+[nginx]
+bitnami@${nginx_servers_list}
+
+
+[java8]
+ec2-user@${java8_servers_list}

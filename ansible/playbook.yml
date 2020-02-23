@@ -1,0 +1,132 @@
+---
+
+##################################
+#### Some notes about Ansible ####
+##################################
+
+#Ansible is a software used to connect to remote-machines and configure them by running different bash commands. 
+#Ansible connect to the machine using ssh, therefore it needs to have a public key defined in order for it to make the connection. 
+#The main advantage of Ansible is that you can give it a list of remote-machine and it will do the same actions in all of them! ( For example starting a service in 10 different JRE servers. ) 
+
+
+#Ansible is built in a structure as follows - 
+  #All information is saved in yml files. 
+  #You write the commands for every group. 
+    #If you want to do a command for one remote-machine - then put that machine in a different group! 
+    #Ansible will execute all the commands for all the machines in a group with no difference! 
+
+  #Each command is called "task" . 
+    #There are many types of task which can be done - copying, editing, rinnig bash scripts etc... 
+    #Ansible is open source and uses module - each module is actually a task template made a developer. 
+    #If you want to look for a specific test - then searhc in google for "Ansible module X" (X=Copy etc... ) and see the list of arguments you need to put for that command to happen. 
+
+  #Each group of tasks that should run is called a "play" 
+    #All plays for all groups are called a "playbook" . 
+    #In simple words - 
+      #All commands (="tasks") that need to be done for a group of remote-machines 
+      #All plays (tasks lists for differetn groups. ) are together in one file which is called a "playbook" . 
+
+  #Here is a nice explanation with examples from the official Ansible website - 
+    # https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html
+
+
+#What is an inventory file? 
+  #An inventory file is a file which describes the diffrent groups of remote-machines and their connection details. 
+    #A group is defined in brackets [group-name] and all machines below belong to that group. 
+    #The group ends when a new group is defined in bracket []
+  #The connection details are the ssh address - which is the user and the computer ip address / public DNS address. 
+    #For example - root@ec2-1.amazon.com or root@112.11.1.2
+    #Make sure that the user is having the right privileges for doing the "play" or Ansible will output error! 
+
+
+
+#######################################
+######## Run the Ansible script #######
+#######################################
+
+
+#How to use the Ansible playbook? 
+  #To run the command from your own terminal (assuming the terra.pem is in the current working directory. ) - " ansible-playbook -i inventory playbook.yml -b --key-file terra.pem "
+  #Ansibel-playbook - the command for running Ansible playbooks. 
+  #-i parmeter - defined the path to the inventory file. 
+  #-b parameter - 
+  #--key-file paremeter - allows to give a path for the key file. (BY default it will try to look for the key in the .ssh directory. )
+
+
+#IMPORTANT! 
+  #Why to start with the java server first? 
+  #Because when operating the nginx it will try to contact the java-app spring server - and if it will not be availabe the nginx will carsh. 
+  #Therefore the app is loaded first, and then the nginx server is running. 
+
+
+
+#############################################
+### Now for the Ansible playbook itself! ###
+#############################################
+
+
+#Here I work on the JRE instances: this instance is an ubuntu system with Java JRE installed. 
+    #I copy the jar file of the TED-app to the server using the "copy" module. 
+      #This module is actually just copying files from the local-machine to the remote-machine using the bash "scp" functions. 
+      #The "scp" functions stand for "secure copy" because it copies file between two Linux machine via a secured ssh tunnel. 
+      #The source files for the Ted-app are located in a ./java8/ directory - 1) A jar file. 2) A configuration file for the function. 
+    #Later I use the shell module - which allows me to execute bash shell scripts in the remote-machine. 
+      #I use a simple java command to launch the TED-app. 
+      #An important note - The Ansible playbook executes every task by order. It start the task and waits unitl it is finished. 
+        #When running a java command with Spring (like in TED-app) the function is working non-stop until you stop the running of the application. 
+        #In such a case the function will be endless and that will cause the Ansible to get "stuck" in the playbook - it will launch the java application and will wait until it is stopped... 
+        #In order to solve that problem I run the java command in a "nohup" which will make the java process launch - but will not get stuck on the process. 
+
+- hosts: java8
+  tasks:
+    - name: Copy the jar file and the propeties file. # THe name field is just a place where you type a note for yourself for what the task will do. IT DOESN'T MATTER WHAT YOU FILL INSIDE - IT WON'T EFFECT THE TASK! 
+      copy:
+        src: ./java8/
+        dest: /home/ec2-user/
+    - name: Run the spring server and the app. 
+      #shell: java -jar embedash-1.1-SNAPSHOT.jar --spring.config.location=./application.properties #This will run the process live on terminal - which will get ansible stuck. 
+      shell: nohup java -jar embedash-1.1-SNAPSHOT.jar --spring.config.location=./application.properties & # This will run the process in the background, which will allow the ansible to finish the mission! # BTW in order to kill the process just use the kill function while connected to the server with ssh. 
+      args: 
+        warn: no
+
+
+#Now for the nginx server. 
+  #Until the java TED-app will be ready, it is time to configure the nginx server. 
+  #The image I used is for the instance is made by Bitnami, and has a documentation about how to use it. 
+    #First I create folders for my application in the nginx/html directory. 
+    #Then I copy the configuration file to the configuration directory. 
+    #Then I add the static file of the TED-app to the server. THIS IS NOT A MUST - but I did it in order to show it possible to make the application run on the JRE instance while the static file will be served by the nginx instnace. 
+    #To finish everything I need to restart the nginx server using a bash script named "ctlscript.sh" which Bitnami created. ( As shown in the documentation, which I referenced at the end of this file. ) 
+
+- hosts: nginx
+  tasks:
+    - name: Create the app folders. 
+      shell: mkdir /home/bitnami/stack/nginx/html/ted && mkdir /home/bitnami/stack/nginx/html/ted/conf
+      args: 
+        warn: no
+    - name: copy the nginx config file. ( WITH SERVERS SETTING ONLY! )
+      copy:
+        src: ./nginx/nginx_server_ted_app.conf
+        dest: /home/bitnami/stack/nginx/html/ted/conf #Replace these files, so it will include them. 
+    - name: copy the static files. 
+      copy:
+        src: ./nginx/static
+        dest: /home/bitnami/stack/nginx/html/ted/
+    - name: add the config path to the Nginx config files. 
+      shell: echo "include \"/home/bitnami/stack/nginx/html/ted/conf/nginx_server_ted_app.conf\";" >> /home/bitnami/stack/nginx/conf/bitnami/bitnami-apps-prefix.conf
+      args: 
+        warn: no
+      become: yes
+    - name: restart nginx service.  
+      shell: sudo /opt/bitnami/ctlscript.sh restart nginx # ( if you add "nginx" at the end, then it will just restart the nginx. If you remove this word - then it will restart everything ) 
+      args: 
+        warn: no
+
+
+
+
+### References - 
+  #A good help on how to set the application on the bitnami nginx server - https://stackoverflow.com/questions/58691253/how-can-i-set-sub-directory-in-nginx-bitnami-ci
+  #The official guide of Bitnami - https://docs.bitnami.com/aws/infrastructure/nginx/ ( VERY USEFUL AND IMPORTANT! ) 
+  #A great guide to start with Ansible - https://www.tutorialspoint.com/ansible/ansible_yaml_basics.htm
+

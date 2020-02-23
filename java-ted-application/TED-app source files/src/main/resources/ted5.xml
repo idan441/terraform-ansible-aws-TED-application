@@ -1,0 +1,987 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TED Theme: The Power of Cities</title>
+    <link>https://www.ted.com/themes/the_power_of_cities</link>
+    <description><![CDATA[In the last 3,000 years, the history of humankind has been tied to the history of cities. With half of the world's population living in urban settings now, it's urgent that we examine them and update our understanding.
+
+Robert Neuwirth lived in and studied the overcrowded slums of megacities such as Nairobi and Rio de Janeiro -- and found hope and vitality there. Majora Carter talks about how enlightened policymaking can "green the ghetto," offering an eye-opening look at why ghettos exist. Steven Johnson, meanwhile, shares the history of a mapping innovation that helped wipe out a deadly disease in London -- and brought about a new reading of urban epidemics and public health.]]></description>
+    <language>en</language>
+    <pubDate>Fri, 28 Dec 2018 09:33:58 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Dec 2018 09:33:58 +0000</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <managingEditor>contact@ted.com (TED)</managingEditor>
+    <webMaster>contact@ted.com (TED)</webMaster>
+    <image>
+      <url>https://pe.tedcdn.com/images/ted/1456_132x99.jpg</url>
+      <title>TED Theme: The Power of Cities</title>
+      <link>https://www.ted.com/themes/the_power_of_cities</link>
+    </image>
+    <item>
+      <title>A memorial at Ground Zero | David Rockwell</title>
+      <link>https://www.ted.com/talks/david_rockwell_builds_at_ground_zero</link>
+      <pubDate>Tue, 12 Jun 2007 05:11:00 +0000</pubDate>
+      <description><![CDATA[In this emotionally charged conversation with journalist Kurt Andersen, designer David Rockwell discusses the process of building a viewing platform at Ground Zero shortly after 9/11.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:8:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10775_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:24:37</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidRockwell_2002.mp4" length="83838987" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidRockwell_2002-64k.mp4" duration="1477" fileSize="12081868" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidRockwell_2002-180k.mp4" duration="1477" fileSize="33601792" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidRockwell_2002-320k.mp4" duration="1477" fileSize="59398586" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidRockwell_2002-450k.mp4" duration="1477" fileSize="83429320" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidRockwell_2002-600k.mp4" duration="1477" fileSize="111178763" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidRockwell_2002-950k.mp4" duration="1477" fileSize="172381356" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidRockwell_2002-1500k.mp4" duration="1477" fileSize="270053164" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David Rockwell</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10775_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The hidden world of shadow cities | Robert Neuwirth</title>
+      <link>https://www.ted.com/talks/robert_neuwirth_on_our_shadow_cities</link>
+      <pubDate>Tue, 02 Jan 2007 00:11:00 +0000</pubDate>
+      <description><![CDATA[Robert Neuwirth, author of "Shadow Cities," finds the world's squatter sites -- where a billion people now make their homes -- to be thriving centers of ingenuity and innovation. He takes us on a tour.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:36:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ea4ebc40fc5c096e331ea6d2b103e8fea9878232_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:14:03</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/RobertNeuwirth_2005G.mp4" length="48136698" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/RobertNeuwirth_2005G-64k.mp4" duration="843" fileSize="6923974" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/RobertNeuwirth_2005G-180k.mp4" duration="843" fileSize="19209651" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/RobertNeuwirth_2005G-320k.mp4" duration="843" fileSize="33995395" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/RobertNeuwirth_2005G-450k.mp4" duration="843" fileSize="48125762" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/RobertNeuwirth_2005G-600k.mp4" duration="843" fileSize="63967313" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/RobertNeuwirth_2005G-950k.mp4" duration="843" fileSize="98185020" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/RobertNeuwirth_2005G-1500k.mp4" duration="843" fileSize="153107242" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Robert Neuwirth</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ea4ebc40fc5c096e331ea6d2b103e8fea9878232_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Greening the ghetto | Majora Carter</title>
+      <link>https://www.ted.com/talks/majora_carter_s_tale_of_urban_renewal</link>
+      <pubDate>Tue, 27 Jun 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[In an emotionally charged talk, MacArthur-winning activist Majora Carter details her fight for environmental justice in the South Bronx -- and shows how minority neighborhoods suffer most from flawed urban policy.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:53:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f90e23c30815d750cc301b37e2159b9f22c613e5_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:36</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/MajoraCarter_2006.mp4" length="63118343" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/MajoraCarter_2006-64k.mp4" duration="1116" fileSize="9142921" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/MajoraCarter_2006-180k.mp4" duration="1116" fileSize="25423753" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/MajoraCarter_2006-320k.mp4" duration="1116" fileSize="44966652" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/MajoraCarter_2006-450k.mp4" duration="1116" fileSize="63060991" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/MajoraCarter_2006-600k.mp4" duration="1116" fileSize="83821701" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/MajoraCarter_2006-950k.mp4" duration="1116" fileSize="129754385" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/MajoraCarter_2006-1500k.mp4" duration="1116" fileSize="202290977" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Majora Carter</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f90e23c30815d750cc301b37e2159b9f22c613e5_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How the &quot;ghost map&quot; helped end a killer disease | Steven Johnson</title>
+      <link>https://www.ted.com/talks/steven_johnson_tours_the_ghost_map</link>
+      <pubDate>Wed, 31 Jan 2007 00:11:00 +0000</pubDate>
+      <description><![CDATA[Author Steven Johnson takes us on a 10-minute tour of The Ghost Map, his book about a cholera outbreak in 1854 London and the impact it had on science, cities and modern society.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:61:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/383_389x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:10:03</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/StevenJohnson_2006S.mp4" length="34257936" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2006S-64k.mp4" duration="603" fileSize="4973151" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2006S-180k.mp4" duration="603" fileSize="13818381" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2006S-320k.mp4" duration="603" fileSize="24480092" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2006S-450k.mp4" duration="603" fileSize="34088035" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2006S-600k.mp4" duration="603" fileSize="45744718" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2006S-950k.mp4" duration="603" fileSize="70566276" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2006S-1500k.mp4" duration="603" fileSize="110789514" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Steven Johnson</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/383_389x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cradle to cradle design | William McDonough</title>
+      <link>https://www.ted.com/talks/william_mcdonough_on_cradle_to_cradle_design</link>
+      <pubDate>Fri, 06 Apr 2007 18:03:00 +0000</pubDate>
+      <description><![CDATA[Green-minded architect and designer William McDonough asks what our buildings and products would look like if designers took into account "all children, all species, for all time."]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:104:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee6ed290a61b9a7816abb51c855725d35fc9d035_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:20:05</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/WilliamMcDonough_2005.mp4" length="68298129" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/WilliamMcDonough_2005-64k.mp4" duration="1205" fileSize="9894370" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/WilliamMcDonough_2005-180k.mp4" duration="1205" fileSize="27490768" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/WilliamMcDonough_2005-320k.mp4" duration="1205" fileSize="48642961" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/WilliamMcDonough_2005-450k.mp4" duration="1205" fileSize="68240767" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/WilliamMcDonough_2005-600k.mp4" duration="1205" fileSize="90854508" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/WilliamMcDonough_2005-950k.mp4" duration="1205" fileSize="143346305" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/WilliamMcDonough_2005-1500k.mp4" duration="1205" fileSize="221985105" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">William McDonough</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee6ed290a61b9a7816abb51c855725d35fc9d035_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The ghastly tragedy of the suburbs | James Howard Kunstler</title>
+      <link>https://www.ted.com/talks/james_howard_kunstler_dissects_suburbia</link>
+      <pubDate>Sat, 12 May 2007 08:20:00 +0000</pubDate>
+      <description><![CDATA[In James Howard Kunstler's view, public spaces should be inspired centers of civic life and the physical manifestation of the common good. Instead, he argues, what we have in America is a nation of places not worth caring about.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:121:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c3f39186aeea3450088e86d8a0e7214a70d3c6cc_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:19:44</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JamesHowardKunstler_2004.mp4" length="67377254" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JamesHowardKunstler_2004-64k.mp4" duration="1184" fileSize="9735118" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JamesHowardKunstler_2004-180k.mp4" duration="1184" fileSize="27071394" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JamesHowardKunstler_2004-320k.mp4" duration="1184" fileSize="47845921" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JamesHowardKunstler_2004-450k.mp4" duration="1184" fileSize="67102637" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JamesHowardKunstler_2004-600k.mp4" duration="1184" fileSize="89308658" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JamesHowardKunstler_2004-950k.mp4" duration="1184" fileSize="137886462" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JamesHowardKunstler_2004-1500k.mp4" duration="1184" fileSize="215899794" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">James Howard Kunstler</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c3f39186aeea3450088e86d8a0e7214a70d3c6cc_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>What squatter cities can teach us | Stewart Brand</title>
+      <link>https://www.ted.com/talks/stewart_brand_on_squatter_cities</link>
+      <pubDate>Thu, 17 May 2007 10:36:00 +0000</pubDate>
+      <description><![CDATA[Rural villages worldwide are being deserted, as billions of people flock to cities to live in teeming squatter camps and slums. Stewart Brand says this is a good thing. Why? It'll take you 3 minutes to find out.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:123:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/791d562689f4b45be4b8b5646338c464e99369b5_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:03:05</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/StewartBrand_2006.mp4" length="10825998" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/StewartBrand_2006-64k.mp4" duration="185" fileSize="1577315" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2006-180k.mp4" duration="185" fileSize="4315036" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2006-320k.mp4" duration="185" fileSize="7675846" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2006-450k.mp4" duration="185" fileSize="10768646" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2006-600k.mp4" duration="185" fileSize="14170060" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2006-950k.mp4" duration="185" fileSize="22235872" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2006-1500k.mp4" duration="185" fileSize="33362802" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Stewart Brand</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/791d562689f4b45be4b8b5646338c464e99369b5_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rebuilding a neighborhood with beauty, dignity, hope | Bill Strickland</title>
+      <link>https://www.ted.com/talks/bill_strickland_makes_change_with_a_slide_show</link>
+      <pubDate>Sun, 20 Jan 2008 23:05:00 +0000</pubDate>
+      <description><![CDATA[Bill Strickland tells a quiet and astonishing tale of redemption through arts, music, and unlikely partnerships.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:209:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8eea8dba05b82b508681b22248686160c619bee4_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:35:28</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BillStrickland_2002.mp4" length="120793484" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-64k.mp4" duration="2128" fileSize="17458426" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-180k.mp4" duration="2128" fileSize="48623003" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-320k.mp4" duration="2128" fileSize="85931934" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-450k.mp4" duration="2128" fileSize="120518879" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-600k.mp4" duration="2128" fileSize="160424316" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-950k.mp4" duration="2128" fileSize="246636608" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-1500k.mp4" duration="2128" fileSize="386909998" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Bill Strickland</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8eea8dba05b82b508681b22248686160c619bee4_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The idea behind Zipcar (and what comes next) | Robin Chase</title>
+      <link>https://www.ted.com/talks/robin_chase_on_zipcar_and_her_next_big_idea</link>
+      <pubDate>Thu, 31 Jan 2008 03:23:00 +0000</pubDate>
+      <description><![CDATA[Robin Chase founded Zipcar, the world’s biggest car-sharing business. That was one of her smaller ideas. Here she travels much farther, contemplating road-pricing schemes that will shake up our driving habits and a mesh network vast as the Interstate.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:212:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f33d392bd6c0fccea109345bf3c6a747f0217a96_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:13:39</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/RobinChase_2007.mp4" length="46500740" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/RobinChase_2007-64k.mp4" duration="819" fileSize="6742494" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/RobinChase_2007-180k.mp4" duration="819" fileSize="18753092" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/RobinChase_2007-320k.mp4" duration="819" fileSize="33195481" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/RobinChase_2007-450k.mp4" duration="819" fileSize="46330848" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/RobinChase_2007-600k.mp4" duration="819" fileSize="62026245" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/RobinChase_2007-950k.mp4" duration="819" fileSize="95320106" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/RobinChase_2007-1500k.mp4" duration="819" fileSize="149307011" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Robin Chase</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f33d392bd6c0fccea109345bf3c6a747f0217a96_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A song of the city | Jaime Lerner</title>
+      <link>https://www.ted.com/talks/jaime_lerner_sings_of_the_city</link>
+      <pubDate>Mon, 04 Feb 2008 01:42:00 +0000</pubDate>
+      <description><![CDATA[Jaime Lerner reinvented urban space in his native Curitiba, Brazil. Along the way, he changed the way city planners worldwide see what's possible in the metropolitan landscape.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:213:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28410_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:43</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JaimeLerner_2007.mp4" length="53183005" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JaimeLerner_2007-64k.mp4" duration="943" fileSize="7705992" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JaimeLerner_2007-180k.mp4" duration="943" fileSize="21438672" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JaimeLerner_2007-320k.mp4" duration="943" fileSize="37961325" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JaimeLerner_2007-450k.mp4" duration="943" fileSize="53013112" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JaimeLerner_2007-600k.mp4" duration="943" fileSize="70919757" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JaimeLerner_2007-950k.mp4" duration="943" fileSize="108846355" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JaimeLerner_2007-1500k.mp4" duration="943" fileSize="170609523" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Jaime Lerner</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28410_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>An illustrated journey through Rome | David Macaulay</title>
+      <link>https://www.ted.com/talks/david_macaulay_s_rome_antics</link>
+      <pubDate>Wed, 06 Feb 2008 01:57:00 +0000</pubDate>
+      <description><![CDATA[David Macaulay relives the winding and sometimes surreal journey toward the completion of Rome Antics, his illustrated homage to the historic city.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:215:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a36ed885a1eb23fbc0c7837cd174da2b3d3eebbf_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:21:35</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidMacaulay_2002.mp4" length="73499270" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-64k.mp4" duration="1295" fileSize="10622849" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-180k.mp4" duration="1295" fileSize="29544129" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-320k.mp4" duration="1295" fileSize="52207606" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-450k.mp4" duration="1295" fileSize="73224666" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-600k.mp4" duration="1295" fileSize="97452938" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-950k.mp4" duration="1295" fileSize="150377314" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-1500k.mp4" duration="1295" fileSize="236793912" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David Macaulay</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a36ed885a1eb23fbc0c7837cd174da2b3d3eebbf_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The Web as a city | Steven Johnson</title>
+      <link>https://www.ted.com/talks/steven_johnson_on_the_web_as_a_city</link>
+      <pubDate>Wed, 08 Oct 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[Outside.in's Steven Johnson says the Web is like a city: built by many people, completely controlled by no one, intricately interconnected and yet functioning as many independent parts. While disaster strikes in one place, elsewhere, life goes on.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:362:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/371_389x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:30</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/StevenJohnson_2003.mp4" length="56345997" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2003-64k.mp4" duration="990" fileSize="8142112" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2003-180k.mp4" duration="990" fileSize="22613551" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2003-320k.mp4" duration="990" fileSize="39984728" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2003-450k.mp4" duration="990" fileSize="56071393" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2003-600k.mp4" duration="990" fileSize="74612190" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2003-950k.mp4" duration="990" fileSize="117615035" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/StevenJohnson_2003-1500k.mp4" duration="990" fileSize="184146943" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Steven Johnson</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/371_389x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Life in Second Life | Philip Rosedale</title>
+      <link>https://www.ted.com/talks/the_inspiration_of_second_life</link>
+      <pubDate>Wed, 03 Dec 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[Why build a virtual world? Philip Rosedale talks about the virtual society he founded, Second Life, and its underpinnings in human creativity. It's a place so different that anything could happen.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:410:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61000_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:28:31</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/PhilipRosedale_2008P.mp4" length="96410556" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/PhilipRosedale_2008P-64k.mp4" duration="1711" fileSize="13994309" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/PhilipRosedale_2008P-180k.mp4" duration="1711" fileSize="38965206" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/PhilipRosedale_2008P-320k.mp4" duration="1711" fileSize="68870138" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/PhilipRosedale_2008P-450k.mp4" duration="1711" fileSize="96617751" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/PhilipRosedale_2008P-600k.mp4" duration="1711" fileSize="128484471" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/PhilipRosedale_2008P-950k.mp4" duration="1711" fileSize="202764821" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/PhilipRosedale_2008P-1500k.mp4" duration="1711" fileSize="315041286" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Philip Rosedale</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61000_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Comics of bygone New York | Ben Katchor</title>
+      <link>https://www.ted.com/talks/ben_katchor_s_comics_of_old_new_york</link>
+      <pubDate>Wed, 22 Apr 2009 21:51:00 +0000</pubDate>
+      <description><![CDATA[In this captivating talk from the TED archive, cartoonist Ben Katchor reads from his comic strips. These perceptive, surreal stories find the profound hopes and foibles of history (and modern New York) preserved in objects like light switches and signs.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:524:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85390_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:11:11</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BenKatchor_2002.mp4" length="38246576" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BenKatchor_2002-64k.mp4" duration="671" fileSize="5531431" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BenKatchor_2002-180k.mp4" duration="671" fileSize="15302381" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BenKatchor_2002-320k.mp4" duration="671" fileSize="27080337" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BenKatchor_2002-450k.mp4" duration="671" fileSize="37971975" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BenKatchor_2002-600k.mp4" duration="671" fileSize="50520831" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BenKatchor_2002-950k.mp4" duration="671" fileSize="78391604" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BenKatchor_2002-1500k.mp4" duration="671" fileSize="123663408" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Ben Katchor</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85390_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>4 environmental 'heresies' | Stewart Brand</title>
+      <link>https://www.ted.com/talks/stewart_brand_proclaims_4_environmental_heresies</link>
+      <pubDate>Mon, 13 Jul 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[The man who helped usher in the environmental movement in the 1960s and '70s has been rethinking his positions on cities, nuclear power, genetic modification and geo-engineering. This talk at the US State Department is a foretaste of his major new book, sure to provoke widespread debate.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:598:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a96e819c6027531e64c700427046620158b2cc19_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:42</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/StewartBrand_2009S.mp4" length="56643062" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/StewartBrand_2009S-64k.mp4" duration="1002" fileSize="8207974" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2009S-180k.mp4" duration="1002" fileSize="22830886" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2009S-320k.mp4" duration="1002" fileSize="40410077" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2009S-450k.mp4" duration="1002" fileSize="56473162" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2009S-600k.mp4" duration="1002" fileSize="75554538" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2009S-950k.mp4" duration="1002" fileSize="116155440" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/StewartBrand_2009S-1500k.mp4" duration="1002" fileSize="182058894" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Stewart Brand</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a96e819c6027531e64c700427046620158b2cc19_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>3 warp-speed architecture tales | Bjarke Ingels</title>
+      <link>https://www.ted.com/talks/bjarke_ingels_3_warp_speed_architecture_tales</link>
+      <pubDate>Tue, 15 Sep 2009 09:05:00 +0000</pubDate>
+      <description><![CDATA[Danish architect Bjarke Ingels rockets through photo/video-mingled stories of his eco-flashy designs. His buildings not only look like nature -- they act like nature: blocking the wind, collecting solar energy -- and creating stunning views.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:634:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/115554_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:14</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BjarkeIngels_2009G.mp4" length="62169335" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BjarkeIngels_2009G-64k.mp4" duration="1094" fileSize="8982736" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BjarkeIngels_2009G-180k.mp4" duration="1094" fileSize="24977493" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BjarkeIngels_2009G-320k.mp4" duration="1094" fileSize="44121198" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BjarkeIngels_2009G-450k.mp4" duration="1094" fileSize="61900859" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BjarkeIngels_2009G-600k.mp4" duration="1094" fileSize="82698140" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BjarkeIngels_2009G-950k.mp4" duration="1094" fileSize="128400542" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BjarkeIngels_2009G-1500k.mp4" duration="1094" fileSize="201384926" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Bjarke Ingels</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/115554_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mapping the future of countries | Parag Khanna</title>
+      <link>https://www.ted.com/talks/parag_khanna_maps_the_future_of_countries</link>
+      <pubDate>Mon, 28 Sep 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[Many people think the lines on the map no longer matter, but Parag Khanna says they do. Using maps of the past and present, he explains the root causes of border conflicts worldwide and proposes simple yet cunning solutions for each.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:645:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/118201_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:53</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ParagKhanna_2009G.mp4" length="64293814" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ParagKhanna_2009G-64k.mp4" duration="1133" fileSize="9293039" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ParagKhanna_2009G-180k.mp4" duration="1133" fileSize="25844117" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ParagKhanna_2009G-320k.mp4" duration="1133" fileSize="45650897" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ParagKhanna_2009G-450k.mp4" duration="1133" fileSize="64025335" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ParagKhanna_2009G-600k.mp4" duration="1133" fileSize="85530901" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ParagKhanna_2009G-950k.mp4" duration="1133" fileSize="131467275" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ParagKhanna_2009G-1500k.mp4" duration="1133" fileSize="206627102" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Parag Khanna</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/118201_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How food shapes our cities | Carolyn Steel</title>
+      <link>https://www.ted.com/talks/carolyn_steel_how_food_shapes_our_cities</link>
+      <pubDate>Mon, 05 Oct 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[Every day, in a city the size of London, 30 million meals are served. But where does all the food come from? Architect Carolyn Steel discusses the daily miracle of feeding a city, and shows how ancient food routes shaped the modern world.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:650:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85a9544f9724781480b8d1922a329cc812b56117_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:40</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/CarolynSteel_2009G.mp4" length="53437911" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/CarolynSteel_2009G-64k.mp4" duration="940" fileSize="7746193" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/CarolynSteel_2009G-180k.mp4" duration="940" fileSize="21455448" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/CarolynSteel_2009G-320k.mp4" duration="940" fileSize="37908813" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/CarolynSteel_2009G-450k.mp4" duration="940" fileSize="53169435" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/CarolynSteel_2009G-600k.mp4" duration="940" fileSize="71152103" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/CarolynSteel_2009G-950k.mp4" duration="940" fileSize="109816694" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/CarolynSteel_2009G-1500k.mp4" duration="940" fileSize="172742900" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Carolyn Steel</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85a9544f9724781480b8d1922a329cc812b56117_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>New York -- before the City | Eric Sanderson</title>
+      <link>https://www.ted.com/talks/eric_sanderson_pictures_new_york_before_the_city</link>
+      <pubDate>Mon, 12 Oct 2009 08:07:00 +0000</pubDate>
+      <description><![CDATA[400 years after Hudson found New York harbor, Eric Sanderson shares how he made a 3D map of Mannahatta's fascinating pre-city ecology of hills, rivers, wildlife -- accurate down to the block -- when Times Square was a wetland and you couldn't get delivery.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:655:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/121586_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:09</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/EricSanderson_2009G.mp4" length="55010339" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-64k.mp4" duration="969" fileSize="7935987" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-180k.mp4" duration="969" fileSize="21975441" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-320k.mp4" duration="969" fileSize="38935844" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-450k.mp4" duration="969" fileSize="54722763" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-600k.mp4" duration="969" fileSize="73140880" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-950k.mp4" duration="969" fileSize="112745453" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-1500k.mp4" duration="969" fileSize="177412093" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Eric Sanderson</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/121586_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Architecture that repairs itself? | Rachel Armstrong</title>
+      <link>https://www.ted.com/talks/rachel_armstrong_architecture_that_repairs_itself</link>
+      <pubDate>Tue, 27 Oct 2009 09:03:00 +0000</pubDate>
+      <description><![CDATA[Venice is sinking. To save it, Rachel Armstrong says we need to outgrow architecture made of inert materials and, well, make architecture that grows itself. She proposes a not-quite-alive material that does its own repairs and sequesters carbon, too.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:667:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/126194_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:07:32</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/RachelArmstrong_2009G.mp4" length="25770938" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/RachelArmstrong_2009G-64k.mp4" duration="452" fileSize="3728816" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/RachelArmstrong_2009G-180k.mp4" duration="452" fileSize="10305188" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/RachelArmstrong_2009G-320k.mp4" duration="452" fileSize="18196425" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/RachelArmstrong_2009G-450k.mp4" duration="452" fileSize="25502459" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/RachelArmstrong_2009G-600k.mp4" duration="452" fileSize="34229221" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/RachelArmstrong_2009G-950k.mp4" duration="452" fileSize="52656685" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/RachelArmstrong_2009G-1500k.mp4" duration="452" fileSize="82195503" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Rachel Armstrong</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/126194_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Your health depends on where you live | Bill Davenhall</title>
+      <link>https://www.ted.com/talks/bill_davenhall_your_health_depends_on_where_you_live</link>
+      <pubDate>Mon, 25 Jan 2010 09:30:00 +0000</pubDate>
+      <description><![CDATA[Where you live: It impacts your health as much as diet and genes do, but it's not part of your medical records. At TEDMED, Bill Davenhall shows how overlooked government geo-data (from local heart-attack rates to toxic dumpsite info) can mesh with mobile GPS apps to keep doctors in the loop. Call it "geo-medicine."]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:748:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c5b05138beb982d51618c54bf0efafdb4bcc596b_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:09:25</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BillDavenhall_2009P.mp4" length="32045549" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BillDavenhall_2009P-64k.mp4" duration="565" fileSize="4643421" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BillDavenhall_2009P-180k.mp4" duration="565" fileSize="12837778" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BillDavenhall_2009P-320k.mp4" duration="565" fileSize="22723005" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BillDavenhall_2009P-450k.mp4" duration="565" fileSize="31846912" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BillDavenhall_2009P-600k.mp4" duration="565" fileSize="42364799" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BillDavenhall_2009P-950k.mp4" duration="565" fileSize="65206031" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BillDavenhall_2009P-1500k.mp4" duration="565" fileSize="103080542" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Bill Davenhall</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c5b05138beb982d51618c54bf0efafdb4bcc596b_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Weird, or just different? | Derek Sivers</title>
+      <link>https://www.ted.com/talks/derek_sivers_weird_or_just_different</link>
+      <pubDate>Fri, 29 Jan 2010 08:54:00 +0000</pubDate>
+      <description><![CDATA["There's a flip side to everything," the saying goes, and in 2 minutes, Derek Sivers shows this is true in a few ways you might not expect.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:755:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/144959_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:02:42</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DerekSivers_2009I.mp4" length="9379775" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DerekSivers_2009I-64k.mp4" duration="162" fileSize="1329386" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DerekSivers_2009I-180k.mp4" duration="162" fileSize="3550981" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DerekSivers_2009I-320k.mp4" duration="162" fileSize="6372157" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DerekSivers_2009I-450k.mp4" duration="162" fileSize="9092117" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DerekSivers_2009I-600k.mp4" duration="162" fileSize="12401694" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DerekSivers_2009I-950k.mp4" duration="162" fileSize="18775567" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DerekSivers_2009I-1500k.mp4" duration="162" fileSize="29800854" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Derek Sivers</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/144959_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Teaching one child at a time | Shukla Bose</title>
+      <link>https://www.ted.com/talks/shukla_bose_teaching_one_child_at_a_time</link>
+      <pubDate>Tue, 30 Mar 2010 09:25:00 +0000</pubDate>
+      <description><![CDATA[Educating the poor is more than just a numbers game, says Shukla Bose. She tells the story of her groundbreaking Parikrma Humanity Foundation, which brings hope to India's slums by looking past the daunting statistics and focusing on treating each child as an individual.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:809:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/160089_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:23</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ShuklaBose_2009I.mp4" length="55879028" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ShuklaBose_2009I-64k.mp4" duration="983" fileSize="8077584" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ShuklaBose_2009I-180k.mp4" duration="983" fileSize="22445422" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ShuklaBose_2009I-320k.mp4" duration="983" fileSize="39639934" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ShuklaBose_2009I-450k.mp4" duration="983" fileSize="55610555" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ShuklaBose_2009I-600k.mp4" duration="983" fileSize="74331742" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ShuklaBose_2009I-950k.mp4" duration="983" fileSize="115096045" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ShuklaBose_2009I-1500k.mp4" duration="983" fileSize="180794240" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Shukla Bose</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/160089_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Retrofitting suburbia | Ellen Dunham-Jones</title>
+      <link>https://www.ted.com/talks/ellen_dunham_jones_retrofitting_suburbia</link>
+      <pubDate>Tue, 29 Jun 2010 09:24:00 +0000</pubDate>
+      <description><![CDATA[Can we rebuild our broken suburbs? Ellen Dunham-Jones shares a vision of dying malls rehabilitated, dead "big box" stores re-inhabited, and endless parking lots transformed into thriving wetlands.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:898:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3301cb1e36be18e33ac577bf1a8c5e911300aec5_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:19:23</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/EllenDunhamJones_2010X.mp4" length="65784056" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/EllenDunhamJones_2010X-64k.mp4" duration="1163" fileSize="9496899" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/EllenDunhamJones_2010X-180k.mp4" duration="1163" fileSize="26370268" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/EllenDunhamJones_2010X-320k.mp4" duration="1163" fileSize="46671982" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/EllenDunhamJones_2010X-450k.mp4" duration="1163" fileSize="65668905" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/EllenDunhamJones_2010X-600k.mp4" duration="1163" fileSize="87753916" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/EllenDunhamJones_2010X-950k.mp4" duration="1163" fileSize="134240464" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/EllenDunhamJones_2010X-1500k.mp4" duration="1163" fileSize="209666990" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Ellen Dunham-Jones</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3301cb1e36be18e33ac577bf1a8c5e911300aec5_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Don't build your home, grow it! | Mitchell Joachim</title>
+      <link>https://www.ted.com/talks/mitchell_joachim_don_t_build_your_home_grow_it</link>
+      <pubDate>Fri, 02 Jul 2010 09:34:00 +0000</pubDate>
+      <description><![CDATA[TED Fellow and urban designer Mitchell Joachim presents his vision for sustainable, organic architecture: eco-friendly abodes grown from plants and -- wait for it -- meat.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:901:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/181022_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:02:56</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/MitchellJoachim_2010.mp4" length="10155461" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/MitchellJoachim_2010-64k.mp4" duration="176" fileSize="1478162" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/MitchellJoachim_2010-180k.mp4" duration="176" fileSize="4042235" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/MitchellJoachim_2010-320k.mp4" duration="176" fileSize="7232593" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/MitchellJoachim_2010-450k.mp4" duration="176" fileSize="9985564" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/MitchellJoachim_2010-600k.mp4" duration="176" fileSize="13620603" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/MitchellJoachim_2010-950k.mp4" duration="176" fileSize="20373323" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/MitchellJoachim_2010-1500k.mp4" duration="176" fileSize="31402242" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Mitchell Joachim</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/181022_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>When ideas have sex | Matt Ridley</title>
+      <link>https://www.ted.com/talks/matt_ridley_when_ideas_have_sex</link>
+      <pubDate>Wed, 14 Jul 2010 11:20:00 +0000</pubDate>
+      <description><![CDATA[At TEDGlobal 2010, author Matt Ridley shows how, throughout history, the engine of human progress has been the meeting and mating of ideas to make new ideas. It's not important how clever individuals are, he says; what really matters is how smart the collective brain is.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:915:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183707_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:26</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/MattRidley_2010G.mp4" length="56030952" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/MattRidley_2010G-64k.mp4" duration="986" fileSize="8115908" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/MattRidley_2010G-180k.mp4" duration="986" fileSize="22515949" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/MattRidley_2010G-320k.mp4" duration="986" fileSize="39765290" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/MattRidley_2010G-450k.mp4" duration="986" fileSize="55762478" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/MattRidley_2010G-600k.mp4" duration="986" fileSize="74540107" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/MattRidley_2010G-950k.mp4" duration="986" fileSize="114356991" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/MattRidley_2010G-1500k.mp4" duration="986" fileSize="179759071" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Matt Ridley</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183707_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The future of business is the &quot;mesh&quot; | Lisa Gansky</title>
+      <link>https://www.ted.com/talks/lisa_gansky_the_future_of_business_is_the_mesh</link>
+      <pubDate>Thu, 17 Feb 2011 15:56:00 +0000</pubDate>
+      <description><![CDATA[Lisa Gansky, author of "The Mesh," talks about a future of business that's about sharing all kinds of stuff, either via smart and tech-enabled rental or, more boldly, peer-to-peer. Examples across industries -- from music to cars -- show how close we are to this meshy future.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1077:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bd6c19ac67c5fdd24bd47ca42f5a2afc53dee0ee_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:14:47</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/LisaGansky_2011S.mp4" length="50413940" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/LisaGansky_2011S-64k.mp4" duration="887" fileSize="7328322" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/LisaGansky_2011S-180k.mp4" duration="887" fileSize="20302772" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/LisaGansky_2011S-320k.mp4" duration="887" fileSize="35976222" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/LisaGansky_2011S-450k.mp4" duration="887" fileSize="50356584" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/LisaGansky_2011S-600k.mp4" duration="887" fileSize="66883728" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/LisaGansky_2011S-950k.mp4" duration="887" fileSize="103847618" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/LisaGansky_2011S-1500k.mp4" duration="887" fileSize="161453115" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Lisa Gansky</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bd6c19ac67c5fdd24bd47ca42f5a2afc53dee0ee_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The antidote to apathy | Dave Meslin</title>
+      <link>https://www.ted.com/talks/dave_meslin_the_antidote_to_apathy</link>
+      <pubDate>Tue, 12 Apr 2011 14:30:00 +0000</pubDate>
+      <description><![CDATA[Local politics -- schools, zoning, council elections -- hit us where we live. So why don't more of us actually get involved? Is it apathy? Dave Meslin says no. He identifies 7 barriers that keep us from taking part in our communities, even when we truly care.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1119:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fac0946df7b132dec7eb5e4b7ba2b20b640bf0d7_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:07:05</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DaveMeslin_2010X.mp4" length="24275331" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DaveMeslin_2010X-64k.mp4" duration="425" fileSize="3506627" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DaveMeslin_2010X-180k.mp4" duration="425" fileSize="9681848" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DaveMeslin_2010X-320k.mp4" duration="425" fileSize="17124490" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DaveMeslin_2010X-450k.mp4" duration="425" fileSize="24000725" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DaveMeslin_2010X-600k.mp4" duration="425" fileSize="31893710" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DaveMeslin_2010X-950k.mp4" duration="425" fileSize="50204478" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DaveMeslin_2010X-1500k.mp4" duration="425" fileSize="78660277" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Dave Meslin</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fac0946df7b132dec7eb5e4b7ba2b20b640bf0d7_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Architecture that senses and responds | Carlo Ratti</title>
+      <link>https://www.ted.com/talks/carlo_ratti_architecture_that_senses_and_responds</link>
+      <pubDate>Tue, 03 May 2011 14:38:00 +0000</pubDate>
+      <description><![CDATA[With his team at SENSEable City Lab, MIT's Carlo Ratti makes cool things by sensing the data we create. He pulls from passive data sets -- like the calls we make, the garbage we throw away -- to create surprising visualizations of city life. And he and his team create dazzling interactive environments from moving water and flying light, powered by simple gestures caught through sensors.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1137:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84f44b766c9eede9c3887cfe711c9e9c3e3e5efd_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:46</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/CarloRatti_2011.mp4" length="53550973" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/CarloRatti_2011-64k.mp4" duration="946" fileSize="7814495" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/CarloRatti_2011-180k.mp4" duration="946" fileSize="21589880" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/CarloRatti_2011-320k.mp4" duration="946" fileSize="38213458" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/CarloRatti_2011-450k.mp4" duration="946" fileSize="53381081" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/CarloRatti_2011-600k.mp4" duration="946" fileSize="71426847" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/CarloRatti_2011-950k.mp4" duration="946" fileSize="109576629" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/CarloRatti_2011-1500k.mp4" duration="946" fileSize="171663505" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Carlo Ratti</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84f44b766c9eede9c3887cfe711c9e9c3e3e5efd_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The world's first charter city? | Paul Romer</title>
+      <link>https://www.ted.com/talks/paul_romer_the_world_s_first_charter_city</link>
+      <pubDate>Thu, 09 Jun 2011 15:14:00 +0000</pubDate>
+      <description><![CDATA[Back in 2009, Paul Romer unveiled the idea for a "charter city" -- a new kind of city with rules that favor democracy and trade. This year, at TED2011, he tells the story of how such a city might just happen in Honduras ... with a little help from his TEDTalk.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1165:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/035d78bce0f52f4c99890945fee9ddabc5858141_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:09:13</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/PaulRomer_2011U.mp4" length="31289774" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/PaulRomer_2011U-64k.mp4" duration="553" fileSize="4545716" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/PaulRomer_2011U-180k.mp4" duration="553" fileSize="12613091" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/PaulRomer_2011U-320k.mp4" duration="553" fileSize="22346625" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/PaulRomer_2011U-450k.mp4" duration="553" fileSize="31119872" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/PaulRomer_2011U-600k.mp4" duration="553" fileSize="41806805" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/PaulRomer_2011U-950k.mp4" duration="553" fileSize="64377068" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/PaulRomer_2011U-1500k.mp4" duration="553" fileSize="100407747" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Paul Romer</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/035d78bce0f52f4c99890945fee9ddabc5858141_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Building a park in the sky | Robert Hammond</title>
+      <link>https://www.ted.com/talks/robert_hammond_building_a_park_in_the_sky</link>
+      <pubDate>Thu, 30 Jun 2011 14:54:00 +0000</pubDate>
+      <description><![CDATA[New York was planning to tear down the High Line, an abandoned elevated railroad in Manhattan, when Robert Hammond and a few friends suggested: Why not make it a park? He shares how it happened in this tale of local cultural activism.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1182:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8780ef7a7686ea80d97b555f884bd8023808bf46_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:05:41</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/RobertHammond_2011U.mp4" length="19333203" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/RobertHammond_2011U-64k.mp4" duration="341" fileSize="2812571" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/RobertHammond_2011U-180k.mp4" duration="341" fileSize="7793763" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/RobertHammond_2011U-320k.mp4" duration="341" fileSize="13826954" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/RobertHammond_2011U-450k.mp4" duration="341" fileSize="19163297" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/RobertHammond_2011U-600k.mp4" duration="341" fileSize="25864528" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/RobertHammond_2011U-950k.mp4" duration="341" fileSize="39683810" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/RobertHammond_2011U-1500k.mp4" duration="341" fileSize="61808759" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Robert Hammond</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8780ef7a7686ea80d97b555f884bd8023808bf46_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The surprising math of cities and corporations | Geoffrey West</title>
+      <link>https://www.ted.com/talks/geoffrey_west_the_surprising_math_of_cities_and_corporations</link>
+      <pubDate>Tue, 26 Jul 2011 14:32:00 +0000</pubDate>
+      <description><![CDATA[Physicist Geoffrey West has found that simple, mathematical laws govern the properties of cities -- that wealth, crime rate, walking speed and many other aspects of a city can be deduced from a single number: the city's population. In this mind-bending talk from TEDGlobal he shows how it works and how similar laws hold for organisms and corporations.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1197:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/917feeee9f165b5945bc96130a48e887294f0976_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:33</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/GeoffreyWest_2011G.mp4" length="59797487" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/GeoffreyWest_2011G-64k.mp4" duration="1053" fileSize="8614973" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/GeoffreyWest_2011G-180k.mp4" duration="1053" fileSize="24025330" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/GeoffreyWest_2011G-320k.mp4" duration="1053" fileSize="42443595" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/GeoffreyWest_2011G-450k.mp4" duration="1053" fileSize="59757831" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/GeoffreyWest_2011G-600k.mp4" duration="1053" fileSize="79550183" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/GeoffreyWest_2011G-950k.mp4" duration="1053" fileSize="122604384" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/GeoffreyWest_2011G-1500k.mp4" duration="1053" fileSize="192870154" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Geoffrey West</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/917feeee9f165b5945bc96130a48e887294f0976_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Coding a better government | Jennifer Pahlka</title>
+      <link>https://www.ted.com/talks/jennifer_pahlka_coding_a_better_government</link>
+      <pubDate>Thu, 08 Mar 2012 16:07:33 +0000</pubDate>
+      <description><![CDATA[Can government be run like the Internet, permissionless and open? Coder and activist Jennifer Pahlka believes it can -- and that apps, built quickly and cheaply, are a powerful new way to connect citizens to their governments -- and their neighbors.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1381:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a3803576b960b90b3f55b6c0edab9eb8eb2f0fa_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:12:11</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JenniferPahlka_2012.mp4" length="41366684" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JenniferPahlka_2012-64k.mp4" duration="731" fileSize="5962944" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JenniferPahlka_2012-180k.mp4" duration="731" fileSize="16519616" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JenniferPahlka_2012-320k.mp4" duration="731" fileSize="29272629" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JenniferPahlka_2012-450k.mp4" duration="731" fileSize="41251401" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JenniferPahlka_2012-600k.mp4" duration="731" fileSize="55224522" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JenniferPahlka_2012-950k.mp4" duration="731" fileSize="84334847" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JenniferPahlka_2012-1500k.mp4" duration="731" fileSize="131575395" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Jennifer Pahlka</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a3803576b960b90b3f55b6c0edab9eb8eb2f0fa_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The 4 commandments of cities | Eduardo Paes</title>
+      <link>https://www.ted.com/talks/eduardo_paes_the_4_commandments_of_cities</link>
+      <pubDate>Thu, 26 Apr 2012 15:11:34 +0000</pubDate>
+      <description><![CDATA[Eduardo Paes is the mayor of Rio de Janeiro, a sprawling, complicated, beautiful city of 6.5 million. He shares four big ideas about leading Rio -- and all cities -- into the future, including bold (and do-able) infrastructure upgrades and how to make a city "smarter."]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1429:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f45ba92c04bdaedad7cf56e5182efb7953516601_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:12:21</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/EduardoPaes_2012.mp4" length="41975088" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/EduardoPaes_2012-64k.mp4" duration="741" fileSize="6047726" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/EduardoPaes_2012-180k.mp4" duration="741" fileSize="16748025" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/EduardoPaes_2012-320k.mp4" duration="741" fileSize="29690207" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/EduardoPaes_2012-450k.mp4" duration="741" fileSize="41859829" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/EduardoPaes_2012-600k.mp4" duration="741" fileSize="56026271" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/EduardoPaes_2012-950k.mp4" duration="741" fileSize="85947524" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/EduardoPaes_2012-1500k.mp4" duration="741" fileSize="133967201" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Eduardo Paes</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f45ba92c04bdaedad7cf56e5182efb7953516601_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Every city needs healthy honey bees | Noah Wilson-Rich</title>
+      <link>https://www.ted.com/talks/noah_wilson_rich_every_city_needs_healthy_honey_bees</link>
+      <pubDate>Sat, 28 Jul 2012 14:01:55 +0000</pubDate>
+      <description><![CDATA[Bees have been rapidly and mysteriously disappearing from rural areas, with grave implications for agriculture. But bees seem to flourish in urban environments -- and cities need their help, too. Noah Wilson-Rich suggests that urban beekeeping might play a role in revitalizing both a city and a species.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1522:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d129a13d72231bf7afa182b0d3f31695c0c91cc9_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:12:43</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/NoahWilsonRich_2012X.mp4" length="43316221" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/NoahWilsonRich_2012X-64k.mp4" duration="763" fileSize="6225086" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/NoahWilsonRich_2012X-180k.mp4" duration="763" fileSize="17242545" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/NoahWilsonRich_2012X-320k.mp4" duration="763" fileSize="30506885" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/NoahWilsonRich_2012X-450k.mp4" duration="763" fileSize="42906574" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/NoahWilsonRich_2012X-600k.mp4" duration="763" fileSize="57242585" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/NoahWilsonRich_2012X-950k.mp4" duration="763" fileSize="90603565" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/NoahWilsonRich_2012X-1500k.mp4" duration="763" fileSize="139875891" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Noah Wilson-Rich</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d129a13d72231bf7afa182b0d3f31695c0c91cc9_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The arts festival revolution | David Binder</title>
+      <link>https://www.ted.com/talks/david_binder_the_arts_festival_revolution</link>
+      <pubDate>Fri, 16 Nov 2012 16:00:33 +0000</pubDate>
+      <description><![CDATA[David Binder is a major Broadway producer, but last summer he found himself in a small Australian neighborhood, watching locals dance and perform on their lawns -- and loving it. He shows us the new face of arts festivals, which break the boundary between audience and performer and help cities express themselves.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1552:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c87fcc96f236d805b48c0308db5f3e7f144545b_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:09:06</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidBinder_2012G.mp4" length="31196807" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidBinder_2012G-64k.mp4" duration="546" fileSize="4515047" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidBinder_2012G-180k.mp4" duration="546" fileSize="12510201" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidBinder_2012G-320k.mp4" duration="546" fileSize="22177091" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidBinder_2012G-450k.mp4" duration="546" fileSize="31026907" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidBinder_2012G-600k.mp4" duration="546" fileSize="41382402" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidBinder_2012G-950k.mp4" duration="546" fileSize="63323817" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidBinder_2012G-1500k.mp4" duration="546" fileSize="98979491" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David Binder</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c87fcc96f236d805b48c0308db5f3e7f144545b_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to solve traffic jams | Jonas Eliasson</title>
+      <link>https://www.ted.com/talks/jonas_eliasson_how_to_solve_traffic_jams</link>
+      <pubDate>Tue, 27 Nov 2012 15:59:43 +0000</pubDate>
+      <description><![CDATA[It's an unfortunate reality in nearly every major city—road congestion, especially during rush hours. Jonas Eliasson reveals how subtly nudging just a small percentage of drivers to stay off major roads can make traffic jams a thing of the past.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1620:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/72907e49ff8f3eac8f9532f52e6bb4d420b4347d_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:08:27</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JonasEliasson_2012X.mp4" length="28867460" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JonasEliasson_2012X-64k.mp4" duration="507" fileSize="4143250" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JonasEliasson_2012X-180k.mp4" duration="507" fileSize="11408210" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JonasEliasson_2012X-320k.mp4" duration="507" fileSize="20266329" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JonasEliasson_2012X-450k.mp4" duration="507" fileSize="28579972" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JonasEliasson_2012X-600k.mp4" duration="507" fileSize="38340229" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JonasEliasson_2012X-950k.mp4" duration="507" fileSize="59982884" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JonasEliasson_2012X-1500k.mp4" duration="507" fileSize="92343978" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Jonas Eliasson</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/72907e49ff8f3eac8f9532f52e6bb4d420b4347d_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A country with no water | Fahad Al-Attiya</title>
+      <link>https://www.ted.com/talks/fahad_al_attiya_a_country_with_no_water</link>
+      <pubDate>Thu, 31 Jan 2013 16:02:17 +0000</pubDate>
+      <description><![CDATA[Imagine a country with abundant power -- oil and gas, sunshine, wind (and money) -- but missing one key essential for life: water. Infrastructure engineer Fahad Al-Attiya talks about the unexpected ways that the small Middle Eastern nation of Qatar creates its water supply.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1660:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/711ba0cd8d0f61c7be31175a60ed6efd173a78b5_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:08:46</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/FahadAlAttiya_2012S.mp4" length="29949562" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/FahadAlAttiya_2012S-64k.mp4" duration="526" fileSize="4301737" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/FahadAlAttiya_2012S-180k.mp4" duration="526" fileSize="12054542" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/FahadAlAttiya_2012S-320k.mp4" duration="526" fileSize="21309482" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/FahadAlAttiya_2012S-450k.mp4" duration="526" fileSize="29908812" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/FahadAlAttiya_2012S-600k.mp4" duration="526" fileSize="39955674" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/FahadAlAttiya_2012S-950k.mp4" duration="526" fileSize="61835387" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/FahadAlAttiya_2012S-1500k.mp4" duration="526" fileSize="97190924" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Fahad Al-Attiya</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/711ba0cd8d0f61c7be31175a60ed6efd173a78b5_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A &quot;self-healing&quot; asphalt | Erik Schlangen</title>
+      <link>https://www.ted.com/talks/erik_schlangen_a_self_healing_asphalt</link>
+      <pubDate>Tue, 12 Feb 2013 15:56:58 +0000</pubDate>
+      <description><![CDATA[Paved roads are nice to look at, but they're easily damaged and costly to repair. Erik Schlangen demos a new type of porous asphalt made of simple materials with an astonishing feature: When cracked, it can be "healed" by induction heating. ]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1665:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d98aa55b2b8bc23be4cc8700dc390bd56fbe6749_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:06:50</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ErikSchlangen_2012X.mp4" length="23404683" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ErikSchlangen_2012X-64k.mp4" duration="410" fileSize="3352530" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ErikSchlangen_2012X-180k.mp4" duration="410" fileSize="9204164" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ErikSchlangen_2012X-320k.mp4" duration="410" fileSize="16366249" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ErikSchlangen_2012X-450k.mp4" duration="410" fileSize="23117050" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ErikSchlangen_2012X-600k.mp4" duration="410" fileSize="31070567" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ErikSchlangen_2012X-950k.mp4" duration="410" fileSize="47575230" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ErikSchlangen_2012X-1500k.mp4" duration="410" fileSize="73545165" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Erik Schlangen</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d98aa55b2b8bc23be4cc8700dc390bd56fbe6749_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>What I discovered in New York City  trash | Robin Nagle</title>
+      <link>https://www.ted.com/talks/robin_nagle_what_i_discovered_in_new_york_city_trash</link>
+      <pubDate>Tue, 05 Nov 2013 16:00:26 +0000</pubDate>
+      <description><![CDATA[New York City residents produce 11,000 tons of garbage every day. Every day! This astonishing statistic is just one of the reasons Robin Nagle started a research project with the city's Department of Sanitation. She walked the routes, operated mechanical brooms, even drove a garbage truck herself--all so she could answer a simple-sounding but complicated question: who cleans up after us?]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1858:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a378e151d8d80ac60c4591be2838157b4fe943c_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:07:52</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/RobinNagle_2013Z.mp4" length="26841082" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/RobinNagle_2013Z-64k.mp4" duration="472" fileSize="3883529" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/RobinNagle_2013Z-180k.mp4" duration="472" fileSize="10709582" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/RobinNagle_2013Z-320k.mp4" duration="472" fileSize="18964238" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/RobinNagle_2013Z-450k.mp4" duration="472" fileSize="26690252" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/RobinNagle_2013Z-600k.mp4" duration="472" fileSize="35674639" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/RobinNagle_2013Z-950k.mp4" duration="472" fileSize="55291999" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/RobinNagle_2013Z-1500k.mp4" duration="472" fileSize="85351771" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Robin Nagle</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a378e151d8d80ac60c4591be2838157b4fe943c_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How an obese town lost a million pounds | Mick Cornett</title>
+      <link>https://www.ted.com/talks/mick_cornett_how_an_obese_town_lost_a_million_pounds</link>
+      <pubDate>Thu, 02 Jan 2014 16:21:58 +0000</pubDate>
+      <description><![CDATA[Oklahoma City is a midsized town that had a big problem: It was among the most obese towns in America. Mayor Mick Cornett realized that, to make his city a great place to work and live, it had to become healthier too. In this charming talk, he walks us through the interlocking changes that helped OKC drop a collective million pounds (450,000 kilos).]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1865:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/34113888f29018d7f07a3c7f10ab2915c50f6b96_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:15</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/MickCornett_2013P.mp4" length="52007166" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/MickCornett_2013P-64k.mp4" duration="915" fileSize="7494760" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/MickCornett_2013P-180k.mp4" duration="915" fileSize="20781569" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/MickCornett_2013P-320k.mp4" duration="915" fileSize="36754529" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/MickCornett_2013P-450k.mp4" duration="915" fileSize="51673841" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/MickCornett_2013P-600k.mp4" duration="915" fileSize="68908404" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/MickCornett_2013P-950k.mp4" duration="915" fileSize="106207561" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/MickCornett_2013P-1500k.mp4" duration="915" fileSize="165608859" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Mick Cornett</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/34113888f29018d7f07a3c7f10ab2915c50f6b96_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Why buses represent democracy in action | Enrique Peñalosa</title>
+      <link>https://www.ted.com/talks/enrique_penalosa_why_buses_represent_democracy_in_action</link>
+      <pubDate>Fri, 06 Dec 2013 16:00:59 +0000</pubDate>
+      <description><![CDATA["An advanced city is not one where even the poor use cars, but rather one where even the rich use public transport," argues Enrique Peñalosa. In this spirited talk, the mayor of Bogotá shares some of the tactics he used to change the transportation dynamic in the Colombian capital... and suggests ways to think about building smart cities of the future.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1886:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/915e59caaa1b90365d5474ec55a29aea13a31ed4_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:14:17</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/EnriquePenelosa_2013Z.mp4" length="48720742" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/EnriquePenelosa_2013Z-64k.mp4" duration="857" fileSize="7071098" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/EnriquePenelosa_2013Z-180k.mp4" duration="857" fileSize="19646007" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/EnriquePenelosa_2013Z-320k.mp4" duration="857" fileSize="34743645" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/EnriquePenelosa_2013Z-450k.mp4" duration="857" fileSize="48704848" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/EnriquePenelosa_2013Z-600k.mp4" duration="857" fileSize="64796701" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/EnriquePenelosa_2013Z-950k.mp4" duration="857" fileSize="99830749" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/EnriquePenelosa_2013Z-1500k.mp4" duration="857" fileSize="156678073" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Enrique Peñalosa</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/915e59caaa1b90365d5474ec55a29aea13a31ed4_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Why good hackers make good citizens | Catherine Bracy</title>
+      <link>https://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens</link>
+      <pubDate>Tue, 25 Feb 2014 16:07:00 +0000</pubDate>
+      <description><![CDATA[Hacking is about more than mischief-making or political subversion. As Catherine Bracy describes in this spirited talk, it can be just as much a force for good as it is for evil. She spins through some inspiring civically-minded projects in Honolulu, Oakland and Mexico City — and makes a compelling case that we all have what it takes to get involved.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1933:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f4141eee69cd374f05e8b955cce8219b678b1bb_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:09:50</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/CatherineBracy_2013Z.mp4" length="33475412" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/CatherineBracy_2013Z-64k.mp4" duration="590" fileSize="4878499" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/CatherineBracy_2013Z-180k.mp4" duration="590" fileSize="13497269" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/CatherineBracy_2013Z-320k.mp4" duration="590" fileSize="23877725" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/CatherineBracy_2013Z-450k.mp4" duration="590" fileSize="33459519" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/CatherineBracy_2013Z-600k.mp4" duration="590" fileSize="44505995" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/CatherineBracy_2013Z-950k.mp4" duration="590" fileSize="68858276" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/CatherineBracy_2013Z-1500k.mp4" duration="590" fileSize="107806752" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Catherine Bracy</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f4141eee69cd374f05e8b955cce8219b678b1bb_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How public spaces make cities work | Amanda Burden</title>
+      <link>https://www.ted.com/talks/amanda_burden_how_public_spaces_make_cities_work</link>
+      <pubDate>Mon, 07 Apr 2014 15:06:06 +0000</pubDate>
+      <description><![CDATA[More than 8 million people are crowded together to live in New York City. What makes it possible? In part, it’s the city’s great public spaces — from tiny pocket parks to long waterfront promenades — where people can stroll and play. Amanda Burden helped plan some of the city’s newest public spaces, drawing on her experience as, surprisingly, an animal behaviorist. She shares the unexpected challenges of planning parks people love -- and why it's important.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1966:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c2a59226d875122598f0fc0b4ca9af4e7d928eb_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:28</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/AmandaBurden_2014.mp4" length="63057182" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/AmandaBurden_2014-64k.mp4" duration="1108" fileSize="9110504" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/AmandaBurden_2014-180k.mp4" duration="1108" fileSize="25249116" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/AmandaBurden_2014-320k.mp4" duration="1108" fileSize="44715658" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/AmandaBurden_2014-450k.mp4" duration="1108" fileSize="62941802" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/AmandaBurden_2014-600k.mp4" duration="1108" fileSize="84077978" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/AmandaBurden_2014-950k.mp4" duration="1108" fileSize="131956870" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/AmandaBurden_2014-1500k.mp4" duration="1108" fileSize="204950067" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Amanda Burden</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c2a59226d875122598f0fc0b4ca9af4e7d928eb_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Why ordinary people need to understand power | Eric Liu</title>
+      <link>https://www.ted.com/talks/eric_liu_why_ordinary_people_need_to_understand_power</link>
+      <pubDate>Thu, 14 Aug 2014 15:42:00 +0000</pubDate>
+      <description><![CDATA[Far too many Americans are illiterate in power — what it is, how it operates and why some people have it. As a result, those few who do understand power wield disproportionate influence over everyone else. “We need to make civics sexy again,” says civics educator Eric Liu. “As sexy as it was during the American Revolution or the Civil Rights Movement.”]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:2060:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fa771070465b9670a72eccacddb9aebd878cf08c_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:15</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/EricLiu_2013Z.mp4" length="58876309" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/EricLiu_2013Z-64k.mp4" duration="1035" fileSize="8507110" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/EricLiu_2013Z-180k.mp4" duration="1035" fileSize="23619151" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/EricLiu_2013Z-320k.mp4" duration="1035" fileSize="41772686" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/EricLiu_2013Z-450k.mp4" duration="1035" fileSize="58725951" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/EricLiu_2013Z-600k.mp4" duration="1035" fileSize="78269737" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/EricLiu_2013Z-950k.mp4" duration="1035" fileSize="121088662" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/EricLiu_2013Z-1500k.mp4" duration="1035" fileSize="188785748" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Eric Liu</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fa771070465b9670a72eccacddb9aebd878cf08c_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>It’s our city. Let’s fix it | Alessandra Orofino</title>
+      <link>https://www.ted.com/talks/alessandra_orofino_it_s_our_city_let_s_fix_it</link>
+      <pubDate>Mon, 03 Nov 2014 16:21:38 +0000</pubDate>
+      <description><![CDATA[Too often, people feel checked out of politics — even at the level of their own city. But urban activist Alessandra Orofino thinks that can change, using a mix of tech and old-fashioned human connection. Sharing examples from her hometown of Rio, she says: "It is up to us to decide whether we want schools or parking lots, recycling projects or construction sites, cars or buses, loneliness or solidarity."]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:2107:5</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0ecf92c3d320442c273567de327ce2fe66b4389b_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:15</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/AlessandraOrofino_2014G.mp4" length="52239417" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/AlessandraOrofino_2014G-64k.mp4" duration="915" fileSize="7532489" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/AlessandraOrofino_2014G-180k.mp4" duration="915" fileSize="20906166" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/AlessandraOrofino_2014G-320k.mp4" duration="915" fileSize="37016996" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/AlessandraOrofino_2014G-450k.mp4" duration="915" fileSize="52124201" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/AlessandraOrofino_2014G-600k.mp4" duration="915" fileSize="69704700" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/AlessandraOrofino_2014G-950k.mp4" duration="915" fileSize="109401725" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/AlessandraOrofino_2014G-1500k.mp4" duration="915" fileSize="169705520" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Alessandra Orofino</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0ecf92c3d320442c273567de327ce2fe66b4389b_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

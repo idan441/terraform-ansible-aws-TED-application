@@ -1,0 +1,1601 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TED Theme: Presentation Innovation</title>
+    <link>https://www.ted.com/themes/presentation_innovation</link>
+    <description><![CDATA[Great speakers hold the power to captivate and inspire. This collection highlights speakers who go one step further -- and innovate on the form itself.
+
+Doctor and researcher Hans Rosling's eye-catching statistics don't stand still: they mutate, morph and crackle with color. Medical illustrator David Bolinsky takes us into the nano-scale workings of living cells with animated computer graphics that mesmerize. And Internet art wizard Jonathan Harris' ongoing study of emotion in the blogosphere turns web stories into sunrays, whirlpools and fireworks.
+
+Don't miss Blaise Aguera y Arcas' debut of Photosynth, an astonishing web application that can recognize the content of photographs and stitch them into three-dimensional tapestries. And make sure to catch computer scientist Jeff Han's enthusiastic demo of his new multi-touch user interface -- it will change the way we interact with computers.]]></description>
+    <language>en</language>
+    <pubDate>Fri, 28 Dec 2018 09:34:07 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Dec 2018 09:34:07 +0000</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <managingEditor>contact@ted.com (TED)</managingEditor>
+    <webMaster>contact@ted.com (TED)</webMaster>
+    <image>
+      <url>https://pe.tedcdn.com/images/ted/1473_132x99.jpg</url>
+      <title>TED Theme: Presentation Innovation</title>
+      <link>https://www.ted.com/themes/presentation_innovation</link>
+    </image>
+    <item>
+      <title>Averting the climate crisis | Al Gore</title>
+      <link>https://www.ted.com/talks/al_gore_on_averting_climate_crisis</link>
+      <pubDate>Tue, 27 Jun 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[With the same humor and humanity he exuded in "An Inconvenient Truth," Al Gore spells out 15 ways that individuals can address climate change immediately, from buying a hybrid to inventing a new, hotter brand name for global warming.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/72eeeccf861a0bd844f1e31e07ba1f1ca346ed0a_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:17</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/AlGore_2006.mp4" length="55424453" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/AlGore_2006-64k.mp4" duration="977" fileSize="7985730" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/AlGore_2006-180k.mp4" duration="977" fileSize="22151007" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/AlGore_2006-320k.mp4" duration="977" fileSize="39188703" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/AlGore_2006-450k.mp4" duration="977" fileSize="55413615" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/AlGore_2006-600k.mp4" duration="977" fileSize="73745270" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/AlGore_2006-950k.mp4" duration="977" fileSize="112909397" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/AlGore_2006-1500k.mp4" duration="977" fileSize="176190485" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Al Gore</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/72eeeccf861a0bd844f1e31e07ba1f1ca346ed0a_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Simplicity sells | David Pogue</title>
+      <link>https://www.ted.com/talks/david_pogue_says_simplicity_sells</link>
+      <pubDate>Tue, 27 Jun 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[New York Times columnist David Pogue takes aim at technology’s worst interface-design offenders, and provides encouraging examples of products that get it right. To funny things up, he bursts into song.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:7:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec8cb05b010ea5c373e085b4349e30723ae4aff0_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:21:26</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidPogue_2006.mp4" length="72749153" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidPogue_2006-64k.mp4" duration="1286" fileSize="10499356" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidPogue_2006-180k.mp4" duration="1286" fileSize="29184436" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidPogue_2006-320k.mp4" duration="1286" fileSize="51634208" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidPogue_2006-450k.mp4" duration="1286" fileSize="72859635" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidPogue_2006-600k.mp4" duration="1286" fileSize="96919243" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidPogue_2006-950k.mp4" duration="1286" fileSize="148825091" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidPogue_2006-1500k.mp4" duration="1286" fileSize="232268408" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David Pogue</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec8cb05b010ea5c373e085b4349e30723ae4aff0_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Software (as) art | Golan Levin</title>
+      <link>https://www.ted.com/talks/golan_levin_on_software_as_art</link>
+      <pubDate>Thu, 05 Apr 2007 00:11:00 +0000</pubDate>
+      <description><![CDATA[Engineer and artist Golan Levin pushes the boundaries of what's possible with audiovisuals and technology. In an amazing TED display, he shows two programs he wrote to perform his original compositions.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:14:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/12a3c9c1c63f1ff036f1c58e19b80a1bfa6027ed_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:14:53</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/GolanLevin_2004.mp4" length="50899166" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/GolanLevin_2004-64k.mp4" duration="893" fileSize="7335916" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/GolanLevin_2004-180k.mp4" duration="893" fileSize="20330931" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/GolanLevin_2004-320k.mp4" duration="893" fileSize="35961412" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/GolanLevin_2004-450k.mp4" duration="893" fileSize="50489480" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/GolanLevin_2004-600k.mp4" duration="893" fileSize="67357138" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/GolanLevin_2004-950k.mp4" duration="893" fileSize="106415783" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/GolanLevin_2004-1500k.mp4" duration="893" fileSize="165297282" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Golan Levin</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/12a3c9c1c63f1ff036f1c58e19b80a1bfa6027ed_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>If I controlled the Internet | Rives</title>
+      <link>https://www.ted.com/talks/rives_controls_the_internet</link>
+      <pubDate>Thu, 14 Dec 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[How many poets could cram eBay, Friendster and Monster.com into 3-minute poem worthy of a standing ovation? Enjoy Rives' unique talent.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:26:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/387_389x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:04:07</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/Rives_IfIControlledtheInternet_2006S.mp4" length="13783021" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/Rives_IfIControlledtheInternet_2006S-64k.mp4" duration="247" fileSize="2013643" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/Rives_IfIControlledtheInternet_2006S-180k.mp4" duration="247" fileSize="5560891" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/Rives_IfIControlledtheInternet_2006S-320k.mp4" duration="247" fileSize="9884595" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/Rives_IfIControlledtheInternet_2006S-450k.mp4" duration="247" fileSize="13613099" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/Rives_IfIControlledtheInternet_2006S-600k.mp4" duration="247" fileSize="18463872" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/Rives_IfIControlledtheInternet_2006S-950k.mp4" duration="247" fileSize="28388021" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/Rives_IfIControlledtheInternet_2006S-1500k.mp4" duration="247" fileSize="44525417" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Rives</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/387_389x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Organic design, inspired by nature | Ross Lovegrove</title>
+      <link>https://www.ted.com/talks/ross_lovegrove_shares_organic_designs</link>
+      <pubDate>Tue, 15 Aug 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[Designer Ross Lovegrove expounds his philosophy of "fat-free" design and offers insight into several of his extraordinary products, including the Ty Nant water bottle and the Go chair.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:27:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fc59fdf3b9364bf5de442e9ab1d6b7ae9b11c6e2_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:19:30</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/RossLovegrove_2005.mp4" length="66593224" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/RossLovegrove_2005-64k.mp4" duration="1170" fileSize="9652305" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/RossLovegrove_2005-180k.mp4" duration="1170" fileSize="26833964" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/RossLovegrove_2005-320k.mp4" duration="1170" fileSize="47467848" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/RossLovegrove_2005-450k.mp4" duration="1170" fileSize="66535865" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/RossLovegrove_2005-600k.mp4" duration="1170" fileSize="88401856" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/RossLovegrove_2005-950k.mp4" duration="1170" fileSize="136995999" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/RossLovegrove_2005-1500k.mp4" duration="1170" fileSize="213888839" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Ross Lovegrove</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fc59fdf3b9364bf5de442e9ab1d6b7ae9b11c6e2_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to get your ideas to spread | Seth Godin</title>
+      <link>https://www.ted.com/talks/seth_godin_on_sliced_bread</link>
+      <pubDate>Thu, 05 Apr 2007 00:11:00 +0000</pubDate>
+      <description><![CDATA[In a world of too many options and too little time, our obvious choice is to just ignore the ordinary stuff. Marketing guru Seth Godin spells out why, when it comes to getting our attention, bad or bizarre ideas are more successful than boring ones.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:28:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28069e37bad9930096baf9eb800de01551d97bf6_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:01</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/SethGodin_2003.mp4" length="58104198" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/SethGodin_2003-64k.mp4" duration="1021" fileSize="8364612" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/SethGodin_2003-180k.mp4" duration="1021" fileSize="23221178" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/SethGodin_2003-320k.mp4" duration="1021" fileSize="41058771" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/SethGodin_2003-450k.mp4" duration="1021" fileSize="57694682" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/SethGodin_2003-600k.mp4" duration="1021" fileSize="76944994" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/SethGodin_2003-950k.mp4" duration="1021" fileSize="118705040" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/SethGodin_2003-1500k.mp4" duration="1021" fileSize="185566331" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Seth Godin</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28069e37bad9930096baf9eb800de01551d97bf6_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Surprising stats about child carseats | Steven Levitt</title>
+      <link>https://www.ted.com/talks/steven_levitt_on_child_carseats</link>
+      <pubDate>Tue, 24 Jun 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[Steven Levitt shares data that shows car seats are no more effective than seatbelts in protecting kids from dying in cars. However, during the question and answer session, he makes one crucial caveat.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:30:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/21_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:58</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/StevenLevitt_2005G.mp4" length="64744400" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/StevenLevitt_2005G-64k.mp4" duration="1138" fileSize="9377635" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/StevenLevitt_2005G-180k.mp4" duration="1138" fileSize="26081415" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/StevenLevitt_2005G-320k.mp4" duration="1138" fileSize="46118447" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/StevenLevitt_2005G-450k.mp4" duration="1138" fileSize="64687041" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/StevenLevitt_2005G-600k.mp4" duration="1138" fileSize="85958728" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/StevenLevitt_2005G-950k.mp4" duration="1138" fileSize="135721560" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/StevenLevitt_2005G-1500k.mp4" duration="1138" fileSize="210572834" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Steven Levitt</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/21_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Let's rethink America's military strategy | Thomas Barnett</title>
+      <link>https://www.ted.com/talks/thomas_barnett_draws_a_new_map_for_peace</link>
+      <pubDate>Thu, 14 Jun 2007 00:11:00 +0000</pubDate>
+      <description><![CDATA[In this bracingly honest talk, international security strategist Thomas Barnett outlines a post-Cold War solution for the foundering U.S. military that is both sensible and breathtaking in its simplicity: Break it in two.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:33:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/199_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:23:22</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ThomasBarnett_2005.mp4" length="79631420" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ThomasBarnett_2005-64k.mp4" duration="1402" fileSize="11497032" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ThomasBarnett_2005-180k.mp4" duration="1402" fileSize="31953083" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ThomasBarnett_2005-320k.mp4" duration="1402" fileSize="56525182" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ThomasBarnett_2005-450k.mp4" duration="1402" fileSize="79741686" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ThomasBarnett_2005-600k.mp4" duration="1402" fileSize="106054871" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ThomasBarnett_2005-950k.mp4" duration="1402" fileSize="166426733" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ThomasBarnett_2005-1500k.mp4" duration="1402" fileSize="258619535" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Thomas Barnett</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/199_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Behind the design of Seattle's library | Joshua Prince-Ramus</title>
+      <link>https://www.ted.com/talks/joshua_prince_ramus_on_seattle_s_library</link>
+      <pubDate>Mon, 10 Jul 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[Architect Joshua Prince-Ramus takes the audience on dazzling, dizzying virtual tours of three recent projects: the Central Library in Seattle, the Museum Plaza in Louisville and the Charles Wyly Theater in Dallas.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:49:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d2958e8b0fd311e584feef43523831cd5fdaaad9_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:19:58</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JoshuaPrinceRamus_2006.mp4" length="68177032" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JoshuaPrinceRamus_2006-64k.mp4" duration="1198" fileSize="9832624" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JoshuaPrinceRamus_2006-180k.mp4" duration="1198" fileSize="27361999" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JoshuaPrinceRamus_2006-320k.mp4" duration="1198" fileSize="48376564" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JoshuaPrinceRamus_2006-450k.mp4" duration="1198" fileSize="68287524" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JoshuaPrinceRamus_2006-600k.mp4" duration="1198" fileSize="90798895" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JoshuaPrinceRamus_2006-950k.mp4" duration="1198" fileSize="139522319" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JoshuaPrinceRamus_2006-1500k.mp4" duration="1198" fileSize="217750622" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Joshua Prince-Ramus</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d2958e8b0fd311e584feef43523831cd5fdaaad9_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The radical promise of the multi-touch interface | Jeff Han</title>
+      <link>https://www.ted.com/talks/jeff_han_demos_his_breakthrough_touchscreen</link>
+      <pubDate>Tue, 01 Aug 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[Jeff Han shows off a cheap, scalable multi-touch and pressure-sensitive computer screen interface that may spell the end of point-and-click.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:65:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2c78c5f87d19f51a0ff4d3e655cb815360bf8063_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:08:47</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JeffHan_2006.mp4" length="30176119" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JeffHan_2006-64k.mp4" duration="527" fileSize="4350074" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JeffHan_2006-180k.mp4" duration="527" fileSize="12016130" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JeffHan_2006-320k.mp4" duration="527" fileSize="21287209" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JeffHan_2006-450k.mp4" duration="527" fileSize="30286530" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JeffHan_2006-600k.mp4" duration="527" fileSize="40223081" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JeffHan_2006-950k.mp4" duration="527" fileSize="61287201" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JeffHan_2006-1500k.mp4" duration="527" fileSize="95188802" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Jeff Han</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2c78c5f87d19f51a0ff4d3e655cb815360bf8063_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How juries are fooled by statistics | Peter Donnelly</title>
+      <link>https://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries</link>
+      <pubDate>Wed, 08 Nov 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[Oxford mathematician Peter Donnelly reveals the common mistakes humans make in interpreting statistics -- and the devastating impact these errors can have on the outcome of criminal trials.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:67:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/159_389x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:21:20</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/PeterDonnelly_2005G.mp4" length="72747308" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/PeterDonnelly_2005G-64k.mp4" duration="1280" fileSize="10535156" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/PeterDonnelly_2005G-180k.mp4" duration="1280" fileSize="29312407" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/PeterDonnelly_2005G-320k.mp4" duration="1280" fileSize="51827350" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/PeterDonnelly_2005G-450k.mp4" duration="1280" fileSize="72689948" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/PeterDonnelly_2005G-600k.mp4" duration="1280" fileSize="96625599" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/PeterDonnelly_2005G-950k.mp4" duration="1280" fileSize="148739392" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/PeterDonnelly_2005G-1500k.mp4" duration="1280" fileSize="232357692" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Peter Donnelly</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/159_389x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>8 secrets of success | Richard St. John</title>
+      <link>https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success</link>
+      <pubDate>Thu, 14 Dec 2006 00:11:00 +0000</pubDate>
+      <description><![CDATA[Why do people succeed? Is it because they're smart? Or are they just lucky? Neither. Analyst Richard St. John condenses years of interviews into an unmissable 3-minute slideshow on the real secrets of success.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:70:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5ed72cd95cb985027a2c8eaeb1d73e9180fb5ffd_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:03:30</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/RichardStJohn_2005.mp4" length="12376554" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/RichardStJohn_2005-64k.mp4" duration="210" fileSize="1754303" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/RichardStJohn_2005-180k.mp4" duration="210" fileSize="4765051" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/RichardStJohn_2005-320k.mp4" duration="210" fileSize="8497479" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/RichardStJohn_2005-450k.mp4" duration="210" fileSize="12365601" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/RichardStJohn_2005-600k.mp4" duration="210" fileSize="16425063" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/RichardStJohn_2005-950k.mp4" duration="210" fileSize="24676301" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/RichardStJohn_2005-1500k.mp4" duration="210" fileSize="37803056" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Richard St. John</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5ed72cd95cb985027a2c8eaeb1d73e9180fb5ffd_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>My wish: Let my photographs bear witness | James Nachtwey</title>
+      <link>https://www.ted.com/talks/james_nachtwey_s_searing_pictures_of_war</link>
+      <pubDate>Tue, 03 Apr 2007 00:11:00 +0000</pubDate>
+      <description><![CDATA[Accepting his 2007 TED Prize, war photographer James Nachtwey shows his life's work and asks TED to help him continue telling the story with innovative, exciting uses of news photography in the digital era.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:84:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1996_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:21:56</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JamesNachtwey_2007.mp4" length="74108166" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JamesNachtwey_2007-64k.mp4" duration="1316" fileSize="10727239" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JamesNachtwey_2007-180k.mp4" duration="1316" fileSize="29869038" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JamesNachtwey_2007-320k.mp4" duration="1316" fileSize="52860618" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JamesNachtwey_2007-450k.mp4" duration="1316" fileSize="73938271" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JamesNachtwey_2007-600k.mp4" duration="1316" fileSize="98779332" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JamesNachtwey_2007-950k.mp4" duration="1316" fileSize="151881790" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JamesNachtwey_2007-1500k.mp4" duration="1316" fileSize="238397261" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">James Nachtwey</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1996_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The best stats you've ever seen | Hans Rosling</title>
+      <link>https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen</link>
+      <pubDate>Tue, 27 Jun 2006 20:38:00 +0000</pubDate>
+      <description><![CDATA[You've never seen data presented like this. With the drama and urgency of a sportscaster, statistics guru Hans Rosling debunks myths about the so-called "developing world."]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:92:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3fa9f73941ced1d06a6a740d1b50604cc5480516_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:19:50</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/HansRosling_2006.mp4" length="67807110" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/HansRosling_2006-64k.mp4" duration="1190" fileSize="9792457" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2006-180k.mp4" duration="1190" fileSize="27156257" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2006-320k.mp4" duration="1190" fileSize="48110615" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2006-450k.mp4" duration="1190" fileSize="67917669" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2006-600k.mp4" duration="1190" fileSize="90207459" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2006-950k.mp4" duration="1190" fileSize="138151392" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2006-1500k.mp4" duration="1190" fileSize="215785658" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Hans Rosling</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3fa9f73941ced1d06a6a740d1b50604cc5480516_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Why we do what we do | Tony Robbins</title>
+      <link>https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do</link>
+      <pubDate>Tue, 27 Jun 2006 20:38:00 +0000</pubDate>
+      <description><![CDATA[Tony Robbins discusses the "invisible forces" that motivate everyone's actions -- and high-fives Al Gore in the front row.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:96:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4f8e94df2e3a42911748d7f9103e1f2b1cbc7373_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:21:45</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/TonyRobbins_2006.mp4" length="74140912" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/TonyRobbins_2006-64k.mp4" duration="1305" fileSize="10740087" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/TonyRobbins_2006-180k.mp4" duration="1305" fileSize="29883868" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/TonyRobbins_2006-320k.mp4" duration="1305" fileSize="52831200" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/TonyRobbins_2006-450k.mp4" duration="1305" fileSize="74083561" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/TonyRobbins_2006-600k.mp4" duration="1305" fileSize="98508345" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/TonyRobbins_2006-950k.mp4" duration="1305" fileSize="152076735" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/TonyRobbins_2006-1500k.mp4" duration="1305" fileSize="237776995" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Tony Robbins</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4f8e94df2e3a42911748d7f9103e1f2b1cbc7373_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The illusion of consciousness | Dan Dennett</title>
+      <link>https://www.ted.com/talks/dan_dennett_on_our_consciousness</link>
+      <pubDate>Fri, 06 Apr 2007 10:33:00 +0000</pubDate>
+      <description><![CDATA[Philosopher Dan Dennett makes a compelling argument that not only don't we understand our own consciousness, but that half the time our brains are actively fooling us.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:102:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/55f8352def783a2b3a7f0b8b135a82ac5ae0b2de_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:21:48</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DanDennett_2003.mp4" length="74330165" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DanDennett_2003-64k.mp4" duration="1308" fileSize="10715588" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DanDennett_2003-180k.mp4" duration="1308" fileSize="29752089" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DanDennett_2003-320k.mp4" duration="1308" fileSize="52613506" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DanDennett_2003-450k.mp4" duration="1308" fileSize="73920637" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DanDennett_2003-600k.mp4" duration="1308" fileSize="98539968" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DanDennett_2003-950k.mp4" duration="1308" fileSize="152523482" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DanDennett_2003-1500k.mp4" duration="1308" fileSize="238786358" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Dan Dennett</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/55f8352def783a2b3a7f0b8b135a82ac5ae0b2de_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How PhotoSynth can connect the world's images | Blaise Agüera y Arcas</title>
+      <link>https://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth</link>
+      <pubDate>Sun, 27 May 2007 00:37:00 +0000</pubDate>
+      <description><![CDATA[Blaise Aguera y Arcas leads a dazzling demo of Photosynth, software that could transform the way we look at digital images. Using still photos culled from the Web, Photosynth builds breathtaking dreamscapes and lets us navigate them.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:129:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5824aa5b8d490ed3863ee1f8c26731a6ebbfcefe_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:07:30</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BlaiseAguerayArcas_2007.mp4" length="25607421" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BlaiseAguerayArcas_2007-64k.mp4" duration="450" fileSize="3686169" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BlaiseAguerayArcas_2007-180k.mp4" duration="450" fileSize="10144826" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BlaiseAguerayArcas_2007-320k.mp4" duration="450" fileSize="17992195" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BlaiseAguerayArcas_2007-450k.mp4" duration="450" fileSize="25441333" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BlaiseAguerayArcas_2007-600k.mp4" duration="450" fileSize="34180592" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BlaiseAguerayArcas_2007-950k.mp4" duration="450" fileSize="52357900" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BlaiseAguerayArcas_2007-1500k.mp4" duration="450" fileSize="81043313" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Blaise Agüera y Arcas</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5824aa5b8d490ed3863ee1f8c26731a6ebbfcefe_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rethink the desktop with BumpTop | Anand Agarawala</title>
+      <link>https://www.ted.com/talks/anand_agarawala_demos_his_bumptop_desktop</link>
+      <pubDate>Tue, 05 Jun 2007 12:01:00 +0000</pubDate>
+      <description><![CDATA[Anand Agarawala presents BumpTop, a user interface that takes the usual desktop metaphor to a glorious, 3-D extreme, transforming file navigation into a freewheeling playground of crumpled documents and clipping-covered "walls."]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:131:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8186_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:04:39</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/AnandAgarawala_2007.mp4" length="16013886" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/AnandAgarawala_2007-64k.mp4" duration="279" fileSize="2343214" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/AnandAgarawala_2007-180k.mp4" duration="279" fileSize="6456225" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/AnandAgarawala_2007-320k.mp4" duration="279" fileSize="11489872" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/AnandAgarawala_2007-450k.mp4" duration="279" fileSize="15843990" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/AnandAgarawala_2007-600k.mp4" duration="279" fileSize="21466093" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/AnandAgarawala_2007-950k.mp4" duration="279" fileSize="32731669" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/AnandAgarawala_2007-1500k.mp4" duration="279" fileSize="50892567" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Anand Agarawala</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8186_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Tour Microsoft's Virtual Earth | Stephen Lawler</title>
+      <link>https://www.ted.com/talks/stephen_lawler_tours_microsoft_virtual_earth</link>
+      <pubDate>Wed, 20 Jun 2007 09:36:00 +0000</pubDate>
+      <description><![CDATA[Microsoft's Stephen Lawler gives a whirlwind tour of Virtual Earth, moving up, down and through its hyper-real cityscapes with dazzlingly fluidity, a remarkable feat that requires staggering amounts of data to bring into focus.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:139:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10978_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:06:10</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/StephenLawler_2007.mp4" length="21144594" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/StephenLawler_2007-64k.mp4" duration="370" fileSize="3067417" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/StephenLawler_2007-180k.mp4" duration="370" fileSize="8519950" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/StephenLawler_2007-320k.mp4" duration="370" fileSize="15119062" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/StephenLawler_2007-450k.mp4" duration="370" fileSize="20974699" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/StephenLawler_2007-600k.mp4" duration="370" fileSize="28261655" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/StephenLawler_2007-950k.mp4" duration="370" fileSize="43144821" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/StephenLawler_2007-1500k.mp4" duration="370" fileSize="67198948" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Stephen Lawler</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10978_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>New insights on poverty | Hans Rosling</title>
+      <link>https://www.ted.com/talks/hans_rosling_reveals_new_insights_on_poverty</link>
+      <pubDate>Mon, 25 Jun 2007 09:12:00 +0000</pubDate>
+      <description><![CDATA[Researcher Hans Rosling uses his cool data tools to show how countries are pulling themselves out of poverty. He demos Dollar Street, comparing households of varying income levels worldwide. Then he does something really amazing.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:140:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bf09302366bde885c86350145b87cd2b265f1f12_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:57</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/HansRosling_2007.mp4" length="64562412" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/HansRosling_2007-64k.mp4" duration="1137" fileSize="9324994" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2007-180k.mp4" duration="1137" fileSize="25881922" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2007-320k.mp4" duration="1137" fileSize="45819067" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2007-450k.mp4" duration="1137" fileSize="64447386" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2007-600k.mp4" duration="1137" fileSize="86130928" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2007-950k.mp4" duration="1137" fileSize="132132635" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2007-1500k.mp4" duration="1137" fileSize="206717894" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Hans Rosling</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bf09302366bde885c86350145b87cd2b265f1f12_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The Web's secret stories | Jonathan Harris</title>
+      <link>https://www.ted.com/talks/jonathan_harris_tells_the_web_s_secret_stories</link>
+      <pubDate>Sun, 08 Jul 2007 20:14:00 +0000</pubDate>
+      <description><![CDATA[Jonathan Harris wants to make sense of the emotional world of the Web. With deep compassion for the human condition, his projects troll the Internet to find out what we're all feeling and looking for.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:144:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/12753_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:10</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JonathanHarris_2007.mp4" length="58429062" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JonathanHarris_2007-64k.mp4" duration="1030" fileSize="8470929" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JonathanHarris_2007-180k.mp4" duration="1030" fileSize="23549899" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JonathanHarris_2007-320k.mp4" duration="1030" fileSize="41692985" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JonathanHarris_2007-450k.mp4" duration="1030" fileSize="58259166" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JonathanHarris_2007-600k.mp4" duration="1030" fileSize="77921740" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JonathanHarris_2007-950k.mp4" duration="1030" fileSize="119822346" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JonathanHarris_2007-1500k.mp4" duration="1030" fileSize="187831320" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Jonathan Harris</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/12753_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Visualizing the wonder of a living cell | David Bolinsky</title>
+      <link>https://www.ted.com/talks/david_bolinsky_animates_a_cell</link>
+      <pubDate>Sun, 22 Jul 2007 08:31:00 +0000</pubDate>
+      <description><![CDATA[Medical animator David Bolinsky presents 3 minutes of stunning animation that show the bustling life inside a cell.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:147:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/13343_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:09:45</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidBolinsky_2007.mp4" length="33307503" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidBolinsky_2007-64k.mp4" duration="585" fileSize="4831691" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidBolinsky_2007-180k.mp4" duration="585" fileSize="13438737" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidBolinsky_2007-320k.mp4" duration="585" fileSize="23791683" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidBolinsky_2007-450k.mp4" duration="585" fileSize="33137608" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidBolinsky_2007-600k.mp4" duration="585" fileSize="44468384" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidBolinsky_2007-950k.mp4" duration="585" fileSize="68015446" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidBolinsky_2007-1500k.mp4" duration="585" fileSize="106303011" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David Bolinsky</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/13343_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>An Iraq war movie crowd-sourced from soldiers | Deborah Scranton</title>
+      <link>https://www.ted.com/talks/deborah_scranton_on_her_war_tapes</link>
+      <pubDate>Thu, 13 Sep 2007 07:00:00 +0000</pubDate>
+      <description><![CDATA[Filmmaker Deborah Scranton talks about and shows clips from her documentary The War Tapes, which puts cameras in the hands of soldiers fighting in Iraq.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:171:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/16307_389x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:36</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DeborahScranton_2007.mp4" length="60003268" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DeborahScranton_2007-64k.mp4" duration="1056" fileSize="8687654" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DeborahScranton_2007-180k.mp4" duration="1056" fileSize="24125042" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DeborahScranton_2007-320k.mp4" duration="1056" fileSize="42723334" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DeborahScranton_2007-450k.mp4" duration="1056" fileSize="59833371" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DeborahScranton_2007-600k.mp4" duration="1056" fileSize="79930406" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DeborahScranton_2007-950k.mp4" duration="1056" fileSize="122346300" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DeborahScranton_2007-1500k.mp4" duration="1056" fileSize="191985479" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Deborah Scranton</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/16307_389x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Laws that choke creativity | Lawrence Lessig</title>
+      <link>https://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity</link>
+      <pubDate>Tue, 06 Nov 2007 01:00:00 +0000</pubDate>
+      <description><![CDATA[Lawrence Lessig, the Net’s most celebrated lawyer, cites John Philip Sousa, celestial copyrights and the "ASCAP cartel" in his argument for reviving our creative culture.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:187:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/01726ef3620b97fcc2a664e1339c6602785123f7_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:56</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/LarryLessig_2007.mp4" length="64418505" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/LarryLessig_2007-64k.mp4" duration="1136" fileSize="9329050" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/LarryLessig_2007-180k.mp4" duration="1136" fileSize="25967209" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/LarryLessig_2007-320k.mp4" duration="1136" fileSize="45957158" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/LarryLessig_2007-450k.mp4" duration="1136" fileSize="64248612" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/LarryLessig_2007-600k.mp4" duration="1136" fileSize="85901915" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/LarryLessig_2007-950k.mp4" duration="1136" fileSize="131966139" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/LarryLessig_2007-1500k.mp4" duration="1136" fileSize="206913778" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Lawrence Lessig</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/01726ef3620b97fcc2a664e1339c6602785123f7_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A performance of &quot;Mathemagic&quot; | Arthur Benjamin</title>
+      <link>https://www.ted.com/talks/arthur_benjamin_does_mathemagic</link>
+      <pubDate>Thu, 13 Dec 2007 00:13:00 +0000</pubDate>
+      <description><![CDATA[In a lively show, mathemagician Arthur Benjamin races a team of calculators to figure out 3-digit squares, solves another massive mental equation and guesses a few birthdays. How does he do it? He’ll tell you.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:199:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0207f0093b7619de4b39ced377909c453be904e_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:14</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ArthurBenjamin_2005.mp4" length="52062562" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ArthurBenjamin_2005-64k.mp4" duration="914" fileSize="7545002" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ArthurBenjamin_2005-180k.mp4" duration="914" fileSize="20962604" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ArthurBenjamin_2005-320k.mp4" duration="914" fileSize="37072050" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ArthurBenjamin_2005-450k.mp4" duration="914" fileSize="52005202" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ArthurBenjamin_2005-600k.mp4" duration="914" fileSize="69070043" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ArthurBenjamin_2005-950k.mp4" duration="914" fileSize="109156586" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ArthurBenjamin_2005-1500k.mp4" duration="914" fileSize="168862641" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Arthur Benjamin</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0207f0093b7619de4b39ced377909c453be904e_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The mystery box | J.J. Abrams</title>
+      <link>https://www.ted.com/talks/j_j_abrams_mystery_box</link>
+      <pubDate>Thu, 10 Jan 2008 06:00:00 +0000</pubDate>
+      <description><![CDATA[J.J. Abrams traces his love for the unseen mystery –- a passion that's evident in his films and TV shows, including Lost, Star Trek and the upcoming Star Wars VII -- back to its magical beginnings.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:205:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aad883c04be5b317553ad3e0436ea5fbcdc332b4_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:02</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JJAbrams_2007.mp4" length="61446469" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JJAbrams_2007-64k.mp4" duration="1082" fileSize="8899659" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JJAbrams_2007-180k.mp4" duration="1082" fileSize="24734558" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JJAbrams_2007-320k.mp4" duration="1082" fileSize="43799433" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JJAbrams_2007-450k.mp4" duration="1082" fileSize="61276579" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JJAbrams_2007-600k.mp4" duration="1082" fileSize="82042471" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JJAbrams_2007-950k.mp4" duration="1082" fileSize="126808741" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JJAbrams_2007-1500k.mp4" duration="1082" fileSize="200102854" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">J.J. Abrams</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aad883c04be5b317553ad3e0436ea5fbcdc332b4_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The life-long learner | Bernie Dunlap</title>
+      <link>https://www.ted.com/talks/ben_dunlap_talks_about_a_passionate_life</link>
+      <pubDate>Wed, 23 Jan 2008 03:45:00 +0000</pubDate>
+      <description><![CDATA[Wofford College president Bernie Dunlap tells the story of Sandor Teszler, a Hungarian Holocaust survivor who taught him about passionate living and lifelong learning.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:208:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4ca288e37384a8c43ff911b5dcad76e104290d3d_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:19:08</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BenDunlap_2007.mp4" length="64719780" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BenDunlap_2007-64k.mp4" duration="1148" fileSize="9385276" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BenDunlap_2007-180k.mp4" duration="1148" fileSize="26091087" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BenDunlap_2007-320k.mp4" duration="1148" fileSize="46180248" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BenDunlap_2007-450k.mp4" duration="1148" fileSize="64549889" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BenDunlap_2007-600k.mp4" duration="1148" fileSize="86300046" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BenDunlap_2007-950k.mp4" duration="1148" fileSize="132675408" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BenDunlap_2007-1500k.mp4" duration="1148" fileSize="208268108" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Bernie Dunlap</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4ca288e37384a8c43ff911b5dcad76e104290d3d_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rebuilding a neighborhood with beauty, dignity, hope | Bill Strickland</title>
+      <link>https://www.ted.com/talks/bill_strickland_makes_change_with_a_slide_show</link>
+      <pubDate>Sun, 20 Jan 2008 23:05:00 +0000</pubDate>
+      <description><![CDATA[Bill Strickland tells a quiet and astonishing tale of redemption through arts, music, and unlikely partnerships.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:209:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8eea8dba05b82b508681b22248686160c619bee4_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:35:28</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BillStrickland_2002.mp4" length="120793484" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-64k.mp4" duration="2128" fileSize="17458426" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-180k.mp4" duration="2128" fileSize="48623003" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-320k.mp4" duration="2128" fileSize="85931934" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-450k.mp4" duration="2128" fileSize="120518879" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-600k.mp4" duration="2128" fileSize="160424316" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-950k.mp4" duration="2128" fileSize="246636608" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BillStrickland_2002-1500k.mp4" duration="2128" fileSize="386909998" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Bill Strickland</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8eea8dba05b82b508681b22248686160c619bee4_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>An illustrated journey through Rome | David Macaulay</title>
+      <link>https://www.ted.com/talks/david_macaulay_s_rome_antics</link>
+      <pubDate>Wed, 06 Feb 2008 01:57:00 +0000</pubDate>
+      <description><![CDATA[David Macaulay relives the winding and sometimes surreal journey toward the completion of Rome Antics, his illustrated homage to the historic city.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:215:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a36ed885a1eb23fbc0c7837cd174da2b3d3eebbf_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:21:35</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidMacaulay_2002.mp4" length="73499270" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-64k.mp4" duration="1295" fileSize="10622849" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-180k.mp4" duration="1295" fileSize="29544129" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-320k.mp4" duration="1295" fileSize="52207606" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-450k.mp4" duration="1295" fileSize="73224666" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-600k.mp4" duration="1295" fileSize="97452938" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-950k.mp4" duration="1295" fileSize="150377314" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidMacaulay_2002-1500k.mp4" duration="1295" fileSize="236793912" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David Macaulay</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a36ed885a1eb23fbc0c7837cd174da2b3d3eebbf_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Juggle and jest | Raspyni Brothers</title>
+      <link>https://www.ted.com/talks/the_raspyni_brothers_juggle_and_jest</link>
+      <pubDate>Fri, 22 Feb 2008 01:16:00 +0000</pubDate>
+      <description><![CDATA[Illustrious jugglers the Raspyni Brothers show off their uncanny balance, agility, coordination and willingness to sacrifice (others). Now, if you'll just stand completely still...]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:223:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/31686_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:27</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/TheRaspyniBrothers_2002.mp4" length="52799971" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/TheRaspyniBrothers_2002-64k.mp4" duration="927" fileSize="7635297" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/TheRaspyniBrothers_2002-180k.mp4" duration="927" fileSize="21198620" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/TheRaspyniBrothers_2002-320k.mp4" duration="927" fileSize="37466426" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/TheRaspyniBrothers_2002-450k.mp4" duration="927" fileSize="52525361" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/TheRaspyniBrothers_2002-600k.mp4" duration="927" fileSize="69917924" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/TheRaspyniBrothers_2002-950k.mp4" duration="927" fileSize="108448669" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/TheRaspyniBrothers_2002-1500k.mp4" duration="927" fileSize="170456660" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Raspyni Brothers</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/31686_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The search for the true face of Leonardo | Siegfried Woldhek</title>
+      <link>https://www.ted.com/talks/siegfried_woldhek_shows_how_he_found_the_true_face_of_leonardo</link>
+      <pubDate>Tue, 01 Apr 2008 02:14:00 +0000</pubDate>
+      <description><![CDATA[<i>Mona Lisa</i> is one of the best-known faces on the planet. But would you recognize an image of Leonardo da Vinci? Illustrator Siegfried Woldhek uses some thoughtful image-analysis techniques to find what he believes is the true face of Leonardo.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:235:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/36652_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:04:24</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/SiegfriedWoldhek_2008.mp4" length="15057611" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/SiegfriedWoldhek_2008-64k.mp4" duration="264" fileSize="2208756" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/SiegfriedWoldhek_2008-180k.mp4" duration="264" fileSize="6051870" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/SiegfriedWoldhek_2008-320k.mp4" duration="264" fileSize="11046539" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/SiegfriedWoldhek_2008-450k.mp4" duration="264" fileSize="14887713" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/SiegfriedWoldhek_2008-600k.mp4" duration="264" fileSize="20433744" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/SiegfriedWoldhek_2008-950k.mp4" duration="264" fileSize="30465184" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/SiegfriedWoldhek_2008-1500k.mp4" duration="264" fileSize="47272068" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Siegfried Woldhek</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/36652_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The call to learn | Clifford Stoll</title>
+      <link>https://www.ted.com/talks/clifford_stoll_on_everything</link>
+      <pubDate>Wed, 26 Mar 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[Clifford Stoll captivates his audience with a wildly energetic sprinkling of anecdotes, observations, asides -- and even a science experiment. After all, by his own definition, he's a scientist: "Once I do something, I want to do something else."]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:237:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/977191042b4e33341d66098d6485237b80cd7bf1_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:57</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/CliffordStoll_2006.mp4" length="60904210" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/CliffordStoll_2006-64k.mp4" duration="1077" fileSize="8827750" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/CliffordStoll_2006-180k.mp4" duration="1077" fileSize="24529349" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/CliffordStoll_2006-320k.mp4" duration="1077" fileSize="43387642" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/CliffordStoll_2006-450k.mp4" duration="1077" fileSize="60846857" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/CliffordStoll_2006-600k.mp4" duration="1077" fileSize="80855399" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/CliffordStoll_2006-950k.mp4" duration="1077" fileSize="124723702" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/CliffordStoll_2006-1500k.mp4" duration="1077" fileSize="194539489" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Clifford Stoll</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/977191042b4e33341d66098d6485237b80cd7bf1_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A new kind of music video | Jakob Trollback</title>
+      <link>https://www.ted.com/talks/jakob_trollback_rethinks_the_music_video</link>
+      <pubDate>Thu, 03 Apr 2008 01:14:00 +0000</pubDate>
+      <description><![CDATA[What would a music video look like if it were directed by the music, purely as an expression of a great song, rather than driven by a filmmaker's concept? Designer Jakob Trollback shares the results of his experiment in the form.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:241:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/36919_519x292.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:04:00</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JakobTrollback_2007.mp4" length="14484857" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JakobTrollback_2007-64k.mp4" duration="240" fileSize="1930180" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JakobTrollback_2007-180k.mp4" duration="240" fileSize="5300924" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JakobTrollback_2007-320k.mp4" duration="240" fileSize="9996934" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JakobTrollback_2007-450k.mp4" duration="240" fileSize="14369604" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JakobTrollback_2007-600k.mp4" duration="240" fileSize="18963542" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JakobTrollback_2007-950k.mp4" duration="240" fileSize="30022734" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JakobTrollback_2007-1500k.mp4" duration="240" fileSize="46006756" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Jakob Trollback</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/36919_519x292.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Free or cheap Wii Remote hacks | Johnny Lee</title>
+      <link>https://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks</link>
+      <pubDate>Fri, 11 Apr 2008 00:05:00 +0000</pubDate>
+      <description><![CDATA[Building sophisticated educational tools out of cheap parts, Johnny Lee demos his cool Wii Remote hacks, which turn the $40 video game controller into a digital whiteboard, a touchscreen and a head-mounted 3-D viewer.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:245:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5a2028327d0f131b820d1e8b042bb482ddc66db1_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:05:40</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JohnnyLee_2008.mp4" length="19052913" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JohnnyLee_2008-64k.mp4" duration="340" fileSize="2742146" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JohnnyLee_2008-180k.mp4" duration="340" fileSize="7531535" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JohnnyLee_2008-320k.mp4" duration="340" fileSize="13369510" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JohnnyLee_2008-450k.mp4" duration="340" fileSize="18937765" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JohnnyLee_2008-600k.mp4" duration="340" fileSize="25526727" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JohnnyLee_2008-950k.mp4" duration="340" fileSize="39045777" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JohnnyLee_2008-1500k.mp4" duration="340" fileSize="60212424" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Johnny Lee</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5a2028327d0f131b820d1e8b042bb482ddc66db1_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Turning powerful stats into art | Chris Jordan</title>
+      <link>https://www.ted.com/talks/chris_jordan_pictures_some_shocking_stats</link>
+      <pubDate>Sun, 15 Jun 2008 21:00:00 +0000</pubDate>
+      <description><![CDATA[Artist Chris Jordan shows us an arresting view of what Western culture looks like. His supersized images picture some almost unimaginable statistics -- like the astonishing number of paper cups we use every single day.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:279:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/41d9f543602e91067e3d1d0928025c5fce1edb2b_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:11:14</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ChrisJordan_2008.mp4" length="38382720" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ChrisJordan_2008-64k.mp4" duration="674" fileSize="5572446" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ChrisJordan_2008-180k.mp4" duration="674" fileSize="15462471" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ChrisJordan_2008-320k.mp4" duration="674" fileSize="27380782" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ChrisJordan_2008-450k.mp4" duration="674" fileSize="38212827" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ChrisJordan_2008-600k.mp4" duration="674" fileSize="51196722" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ChrisJordan_2008-950k.mp4" duration="674" fileSize="78512625" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ChrisJordan_2008-1500k.mp4" duration="674" fileSize="123084736" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Chris Jordan</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/41d9f543602e91067e3d1d0928025c5fce1edb2b_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The transformative power of classical music | Benjamin Zander</title>
+      <link>https://www.ted.com/talks/benjamin_zander_on_music_and_passion</link>
+      <pubDate>Wed, 25 Jun 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[Benjamin Zander has two infectious passions: classical music, and helping us all realize our untapped love for it -- and by extension, our untapped love for all new possibilities, new experiences, new connections.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:286:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/db471b06b2f5f6ba97c7de8b232878ffe9718600_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:20:43</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BenjaminZander_2008.mp4" length="70469005" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BenjaminZander_2008-64k.mp4" duration="1243" fileSize="10177000" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BenjaminZander_2008-180k.mp4" duration="1243" fileSize="28261227" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BenjaminZander_2008-320k.mp4" duration="1243" fileSize="50019463" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BenjaminZander_2008-450k.mp4" duration="1243" fileSize="70353706" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BenjaminZander_2008-600k.mp4" duration="1243" fileSize="93992612" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BenjaminZander_2008-950k.mp4" duration="1243" fileSize="147584013" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BenjaminZander_2008-1500k.mp4" duration="1243" fileSize="229312480" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Benjamin Zander</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/db471b06b2f5f6ba97c7de8b232878ffe9718600_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Close-up card magic with a twist | Lennart Green</title>
+      <link>https://www.ted.com/talks/lennart_green_does_close_up_card_magic</link>
+      <pubDate>Wed, 20 Aug 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[Like your uncle at a family party, the rumpled Swedish doctor Lennart Green says, "Pick a card, any card." But what he does with those cards is pure magic -- flabbergasting, lightning-fast, how-does-he-do-it? magic.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:327:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/30bd0383a3bae69754054546335f24f755648e1f_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:31:08</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/LennartGreen_2005.mp4" length="105697809" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/LennartGreen_2005-64k.mp4" duration="1868" fileSize="15295829" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/LennartGreen_2005-180k.mp4" duration="1868" fileSize="42605730" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/LennartGreen_2005-320k.mp4" duration="1868" fileSize="75319683" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/LennartGreen_2005-450k.mp4" duration="1868" fileSize="105640451" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/LennartGreen_2005-600k.mp4" duration="1868" fileSize="140547540" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/LennartGreen_2005-950k.mp4" duration="1868" fileSize="221780553" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/LennartGreen_2005-1500k.mp4" duration="1868" fileSize="344663360" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Lennart Green</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/30bd0383a3bae69754054546335f24f755648e1f_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to pitch to a VC | David S. Rose</title>
+      <link>https://www.ted.com/talks/david_s_rose_on_pitching_to_vcs</link>
+      <pubDate>Fri, 19 Sep 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[Thinking startup? David S. Rose's rapid-fire TED U talk on pitching to a venture capitalist tells you the 10 things you need to know about yourself -- and prove to a VC -- before you fire up your slideshow.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:353:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0807a435ce484492cf8805857be1a18a2f17ac05_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:14:39</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidSRose_2007U.mp4" length="50029617" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidSRose_2007U-64k.mp4" duration="879" fileSize="7231350" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidSRose_2007U-180k.mp4" duration="879" fileSize="20067271" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidSRose_2007U-320k.mp4" duration="879" fileSize="35478616" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidSRose_2007U-450k.mp4" duration="879" fileSize="49754998" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidSRose_2007U-600k.mp4" duration="879" fileSize="66201032" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidSRose_2007U-950k.mp4" duration="879" fileSize="101343215" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidSRose_2007U-1500k.mp4" duration="879" fileSize="159739693" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David S. Rose</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0807a435ce484492cf8805857be1a18a2f17ac05_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Moving photos of extreme drug-resistant TB | James Nachtwey</title>
+      <link>https://www.ted.com/talks/james_nachtwey_fights_xdrtb</link>
+      <pubDate>Fri, 03 Oct 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[An ancient disease is taking on a deadly new form. James Nachtwey share his powerful photographs of XDR-TB, a newly drug-resistant strain of tuberculosis that has developed due to misused and inadequate medical treatments -- and that might be touching off a global medical crisis. ]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:360:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/034f1a2436c61265a653cf911ebb80d412066a7f_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:05:52</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/XDRTB_2008.mp4" length="19712128" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/XDRTB_2008-64k.mp4" duration="352" fileSize="2885539" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/XDRTB_2008-180k.mp4" duration="352" fileSize="8005883" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/XDRTB_2008-320k.mp4" duration="352" fileSize="14141141" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/XDRTB_2008-450k.mp4" duration="352" fileSize="19542241" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/XDRTB_2008-600k.mp4" duration="352" fileSize="26319055" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/XDRTB_2008-950k.mp4" duration="352" fileSize="41137052" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/XDRTB_2008-1500k.mp4" duration="352" fileSize="63198477" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">James Nachtwey</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/034f1a2436c61265a653cf911ebb80d412066a7f_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Do the green thing | Andy Hobsbawm</title>
+      <link>https://www.ted.com/talks/andy_hobsbawm_says_do_the_green_thing</link>
+      <pubDate>Wed, 26 Nov 2008 10:03:00 +0000</pubDate>
+      <description><![CDATA[Andy Hobsbawm shares a fresh ad campaign about going green -- and some of the fringe benefits.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:407:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/60032_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:03:22</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/AndyHobsbawm_2008.mp4" length="11660163" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/AndyHobsbawm_2008-64k.mp4" duration="202" fileSize="1702011" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/AndyHobsbawm_2008-180k.mp4" duration="202" fileSize="4703506" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/AndyHobsbawm_2008-320k.mp4" duration="202" fileSize="8359605" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/AndyHobsbawm_2008-450k.mp4" duration="202" fileSize="11490269" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/AndyHobsbawm_2008-600k.mp4" duration="202" fileSize="15646849" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/AndyHobsbawm_2008-950k.mp4" duration="202" fileSize="23875779" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/AndyHobsbawm_2008-1500k.mp4" duration="202" fileSize="36984856" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Andy Hobsbawm</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/60032_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The science of sync | Steven Strogatz</title>
+      <link>https://www.ted.com/talks/steven_strogatz_on_sync</link>
+      <pubDate>Mon, 22 Dec 2008 01:00:00 +0000</pubDate>
+      <description><![CDATA[Mathematician Steven Strogatz shows how flocks of creatures (like birds, fireflies and fish) manage to synchronize and act as a unit -- when no one's giving orders. The powerful tendency extends into the realm of objects, too.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:422:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c4d5649ff9e13c265c4e6a77a87b0b7f9ccdeb3c_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:21:58</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/StevenStrogatz_2004.mp4" length="74549762" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/StevenStrogatz_2004-64k.mp4" duration="1318" fileSize="10776922" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/StevenStrogatz_2004-180k.mp4" duration="1318" fileSize="29966288" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/StevenStrogatz_2004-320k.mp4" duration="1318" fileSize="52958815" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/StevenStrogatz_2004-450k.mp4" duration="1318" fileSize="74275157" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/StevenStrogatz_2004-600k.mp4" duration="1318" fileSize="98848859" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/StevenStrogatz_2004-950k.mp4" duration="1318" fileSize="155762802" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/StevenStrogatz_2004-1500k.mp4" duration="1318" fileSize="243732157" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Steven Strogatz</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c4d5649ff9e13c265c4e6a77a87b0b7f9ccdeb3c_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Taking OLPC to Colombia | Nicholas Negroponte</title>
+      <link>https://www.ted.com/talks/nicholas_negroponte_takes_olpc_to_colombia</link>
+      <pubDate>Mon, 22 Dec 2008 15:17:00 +0000</pubDate>
+      <description><![CDATA[TED follows Nicholas Negroponte to Colombia as he delivers laptops inside territory once controlled by guerrillas. His partner? Colombia's Defense Department, who see One Laptop per Child as an investment in the region. (And you too can get involved.)]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:423:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63395_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:06:48</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/NicholasNegroponte_2008.mp4" length="21689143" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/NicholasNegroponte_2008-64k.mp4" duration="408" fileSize="3127062" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/NicholasNegroponte_2008-180k.mp4" duration="408" fileSize="8595423" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/NicholasNegroponte_2008-320k.mp4" duration="408" fileSize="15241466" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/NicholasNegroponte_2008-450k.mp4" duration="408" fileSize="21574401" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/NicholasNegroponte_2008-600k.mp4" duration="408" fileSize="29030764" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/NicholasNegroponte_2008-950k.mp4" duration="408" fileSize="45427627" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/NicholasNegroponte_2008-1500k.mp4" duration="408" fileSize="69748054" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Nicholas Negroponte</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63395_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The visual magic of comics | Scott McCloud</title>
+      <link>https://www.ted.com/talks/scott_mccloud_on_comics</link>
+      <pubDate>Tue, 13 Jan 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[In this unmissable look at the magic of comics, Scott McCloud bends the presentation format into a cartoon-like experience, where colorful diversions whiz through childhood fascinations and imagined futures that our eyes can hear and touch.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:432:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67413_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:08</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ScottMcCloud_2005.mp4" length="58199974" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ScottMcCloud_2005-64k.mp4" duration="1028" fileSize="8428631" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ScottMcCloud_2005-180k.mp4" duration="1028" fileSize="23438648" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ScottMcCloud_2005-320k.mp4" duration="1028" fileSize="41453231" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ScottMcCloud_2005-450k.mp4" duration="1028" fileSize="58142622" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ScottMcCloud_2005-600k.mp4" duration="1028" fileSize="77246533" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ScottMcCloud_2005-950k.mp4" duration="1028" fileSize="122015260" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ScottMcCloud_2005-1500k.mp4" duration="1028" fileSize="188910196" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Scott McCloud</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67413_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Stunning data visualization in the AlloSphere | JoAnn Kuchera-Morin</title>
+      <link>https://www.ted.com/talks/joann_kuchera_morin_tours_the_allosphere</link>
+      <pubDate>Wed, 15 Apr 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[JoAnn Kuchera-Morin demos the AlloSphere, a new way to see, hear and interpret scientific data. Dive into the brain, feel electron spin, hear the music of the elements ... and detect previously unseen patterns that could lead to new discoveries.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:516:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83840_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:06:27</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JoAnnKucheraMorin_2009.mp4" length="21651022" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JoAnnKucheraMorin_2009-64k.mp4" duration="387" fileSize="3118754" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JoAnnKucheraMorin_2009-180k.mp4" duration="387" fileSize="8558607" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JoAnnKucheraMorin_2009-320k.mp4" duration="387" fileSize="15208837" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JoAnnKucheraMorin_2009-450k.mp4" duration="387" fileSize="21535928" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JoAnnKucheraMorin_2009-600k.mp4" duration="387" fileSize="28965809" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JoAnnKucheraMorin_2009-950k.mp4" duration="387" fileSize="45343879" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JoAnnKucheraMorin_2009-1500k.mp4" duration="387" fileSize="69658542" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">JoAnn Kuchera-Morin</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83840_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Insights on HIV, in stunning data visuals | Hans Rosling</title>
+      <link>https://www.ted.com/talks/hans_rosling_the_truth_about_hiv</link>
+      <pubDate>Wed, 13 May 2009 06:50:00 +0000</pubDate>
+      <description><![CDATA[Hans Rosling unveils data visuals that untangle the complex risk factors of one of the world's deadliest (and most misunderstood) diseases: HIV. By following the data, he suggests a surprising key to ending the epidemic.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:540:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/88407_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:10:02</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/HansRosling_2009.mp4" length="34431179" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/HansRosling_2009-64k.mp4" duration="602" fileSize="4897469" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009-180k.mp4" duration="602" fileSize="13544027" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009-320k.mp4" duration="602" fileSize="23979834" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009-450k.mp4" duration="602" fileSize="33827538" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009-600k.mp4" duration="602" fileSize="45386377" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009-950k.mp4" duration="602" fileSize="69482045" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009-1500k.mp4" duration="602" fileSize="108128189" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Hans Rosling</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/88407_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>3 ways the brain creates meaning | Tom Wujec</title>
+      <link>https://www.ted.com/talks/tom_wujec_on_3_ways_the_brain_creates_meaning</link>
+      <pubDate>Tue, 07 Jul 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[Information designer Tom Wujec talks through three areas of the brain that help us understand words, images, feelings, connections. In this short talk from TEDU, he asks: How can we best engage our brains to help us better understand big ideas?]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:591:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/483463026a5776ab639f209ed89c87a714d39a86_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:06:26</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/TomWujec_2009U.mp4" length="22168474" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/TomWujec_2009U-64k.mp4" duration="386" fileSize="3209772" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/TomWujec_2009U-180k.mp4" duration="386" fileSize="8848456" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/TomWujec_2009U-320k.mp4" duration="386" fileSize="15639709" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/TomWujec_2009U-450k.mp4" duration="386" fileSize="21893864" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/TomWujec_2009U-600k.mp4" duration="386" fileSize="29141154" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/TomWujec_2009U-950k.mp4" duration="386" fileSize="44899720" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/TomWujec_2009U-1500k.mp4" duration="386" fileSize="71009469" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Tom Wujec</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/483463026a5776ab639f209ed89c87a714d39a86_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Let my dataset change your mindset | Hans Rosling</title>
+      <link>https://www.ted.com/talks/hans_rosling_at_state</link>
+      <pubDate>Thu, 27 Aug 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[Talking at the US State Department this summer, Hans Rosling uses his fascinating data-bubble software to burst myths about the developing world. Look for new analysis on China and the post-bailout world, mixed with classic data shows.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:620:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/111517_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:19:56</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/HansRosling_2009S.mp4" length="67656596" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/HansRosling_2009S-64k.mp4" duration="1196" fileSize="9785281" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009S-180k.mp4" duration="1196" fileSize="27119898" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009S-320k.mp4" duration="1196" fileSize="48003844" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009S-450k.mp4" duration="1196" fileSize="67541405" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009S-600k.mp4" duration="1196" fileSize="90231227" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009S-950k.mp4" duration="1196" fileSize="138992484" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/HansRosling_2009S-1500k.mp4" duration="1196" fileSize="216953203" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Hans Rosling</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/111517_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A multimedia theatrical adventure | Natasha Tsakos</title>
+      <link>https://www.ted.com/talks/natasha_tsakos_multimedia_theatrical_adventure</link>
+      <pubDate>Fri, 28 Aug 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[Natasha Tsakos presents part of her one-woman, multimedia show, "Upwake." As the character Zero, she blends dream and reality with an inventive virtual world projected around her in 3D animation and electric sound.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:621:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/111721_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:14:39</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/NatashaTsakos_2009.mp4" length="49603327" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/NatashaTsakos_2009-64k.mp4" duration="879" fileSize="7197062" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/NatashaTsakos_2009-180k.mp4" duration="879" fileSize="19982229" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/NatashaTsakos_2009-320k.mp4" duration="879" fileSize="35384678" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/NatashaTsakos_2009-450k.mp4" duration="879" fileSize="49433432" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/NatashaTsakos_2009-600k.mp4" duration="879" fileSize="66121569" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/NatashaTsakos_2009-950k.mp4" duration="879" fileSize="103328674" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/NatashaTsakos_2009-1500k.mp4" duration="879" fileSize="161389699" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Natasha Tsakos</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/111721_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>New York -- before the City | Eric Sanderson</title>
+      <link>https://www.ted.com/talks/eric_sanderson_pictures_new_york_before_the_city</link>
+      <pubDate>Mon, 12 Oct 2009 08:07:00 +0000</pubDate>
+      <description><![CDATA[400 years after Hudson found New York harbor, Eric Sanderson shares how he made a 3D map of Mannahatta's fascinating pre-city ecology of hills, rivers, wildlife -- accurate down to the block -- when Times Square was a wetland and you couldn't get delivery.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:655:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/121586_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:09</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/EricSanderson_2009G.mp4" length="55010339" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-64k.mp4" duration="969" fileSize="7935987" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-180k.mp4" duration="969" fileSize="21975441" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-320k.mp4" duration="969" fileSize="38935844" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-450k.mp4" duration="969" fileSize="54722763" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-600k.mp4" duration="969" fileSize="73140880" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-950k.mp4" duration="969" fileSize="112745453" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/EricSanderson_2009G-1500k.mp4" duration="969" fileSize="177412093" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Eric Sanderson</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/121586_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Lead like the great conductors | Itay Talgam</title>
+      <link>https://www.ted.com/talks/itay_talgam_lead_like_the_great_conductors</link>
+      <pubDate>Wed, 21 Oct 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[An orchestra conductor faces the ultimate leadership challenge: creating perfect harmony without saying a word. In this charming talk, Itay Talgam demonstrates the unique styles of six great 20th-century conductors, illustrating crucial lessons for all leaders.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:663:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b2fc89034fa59687752621b69130a4392318af8b_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:20:51</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ItayTalgam_2009G.mp4" length="70975093" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ItayTalgam_2009G-64k.mp4" duration="1251" fileSize="10228421" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ItayTalgam_2009G-180k.mp4" duration="1251" fileSize="28383683" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ItayTalgam_2009G-320k.mp4" duration="1251" fileSize="50274142" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ItayTalgam_2009G-450k.mp4" duration="1251" fileSize="70687412" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ItayTalgam_2009G-600k.mp4" duration="1251" fileSize="94425517" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ItayTalgam_2009G-950k.mp4" duration="1251" fileSize="148019753" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ItayTalgam_2009G-1500k.mp4" duration="1251" fileSize="231455521" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Itay Talgam</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b2fc89034fa59687752621b69130a4392318af8b_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dance to change the world | Mallika Sarabhai</title>
+      <link>https://www.ted.com/talks/mallika_sarabhai</link>
+      <pubDate>Thu, 26 Nov 2009 01:00:00 +0000</pubDate>
+      <description><![CDATA[At TEDIndia, Mallika Sarabhai, a dancer/actor/politician, tells a  
+transformative story in dance -- and argues that the arts may be the  
+most powerful way to effect change, whether political, social or  
+personal.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:688:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/132434_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:52</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/MallikaSarabhai_2009I.mp4" length="57405738" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/MallikaSarabhai_2009I-64k.mp4" duration="1012" fileSize="8297922" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/MallikaSarabhai_2009I-180k.mp4" duration="1012" fileSize="23065314" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/MallikaSarabhai_2009I-320k.mp4" duration="1012" fileSize="40735768" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/MallikaSarabhai_2009I-450k.mp4" duration="1012" fileSize="57137260" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/MallikaSarabhai_2009I-600k.mp4" duration="1012" fileSize="76363733" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/MallikaSarabhai_2009I-950k.mp4" duration="1012" fileSize="118986889" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/MallikaSarabhai_2009I-1500k.mp4" duration="1012" fileSize="186770197" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Mallika Sarabhai</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/132434_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to make a splash in social media | Alexis Ohanian</title>
+      <link>https://www.ted.com/talks/alexis_ohanian_how_to_make_a_splash_in_social_media</link>
+      <pubDate>Tue, 15 Dec 2009 14:45:00 +0000</pubDate>
+      <description><![CDATA[In a funny, rapid-fire 4 minutes, Alexis Ohanian of Reddit tells the real-life fable of one humpback whale's rise to web stardom. The lesson of Mister Splashy Pants is a shoo-in classic for meme-makers and marketers in the Facebook age.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:714:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/136380_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:04:26</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/AlexisOhanian_2009I.mp4" length="15294825" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/AlexisOhanian_2009I-64k.mp4" duration="266" fileSize="2215451" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/AlexisOhanian_2009I-180k.mp4" duration="266" fileSize="6088407" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/AlexisOhanian_2009I-320k.mp4" duration="266" fileSize="10733994" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/AlexisOhanian_2009I-450k.mp4" duration="266" fileSize="15026349" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/AlexisOhanian_2009I-600k.mp4" duration="266" fileSize="20312899" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/AlexisOhanian_2009I-950k.mp4" duration="266" fileSize="31193864" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/AlexisOhanian_2009I-1500k.mp4" duration="266" fileSize="48967654" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Alexis Ohanian</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/136380_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>All things are Moleeds | Charles Fleischer</title>
+      <link>https://www.ted.com/talks/charles_fleischer_insists_all_things_are_moleeds</link>
+      <pubDate>Fri, 15 Jan 2010 09:59:00 +0000</pubDate>
+      <description><![CDATA[In a presentation that can only be described as epic, comedian Charles Fleischer delivers a hysterical send-up of a time-honored TED theme: the map. Geometry, numbers, charts and stamp art also factor in (somehow), as he weaves together a unique theory of everything called "Moleeds."]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:738:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/142026_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:03</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/CharlesFleischer_2005.mp4" length="61608472" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/CharlesFleischer_2005-64k.mp4" duration="1083" fileSize="8913553" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/CharlesFleischer_2005-180k.mp4" duration="1083" fileSize="24795125" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/CharlesFleischer_2005-320k.mp4" duration="1083" fileSize="43853163" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/CharlesFleischer_2005-450k.mp4" duration="1083" fileSize="61551116" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/CharlesFleischer_2005-600k.mp4" duration="1083" fileSize="81721043" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/CharlesFleischer_2005-950k.mp4" duration="1083" fileSize="129011437" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/CharlesFleischer_2005-1500k.mp4" duration="1083" fileSize="199921047" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Charles Fleischer</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/142026_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Photos that changed the world | Jonathan Klein</title>
+      <link>https://www.ted.com/talks/jonathan_klein_photos_that_changed_the_world</link>
+      <pubDate>Tue, 13 Apr 2010 09:32:00 +0000</pubDate>
+      <description><![CDATA[Photographs do more than document history -- they make it. At TED University, Jonathan Klein of Getty Images shows some of the most iconic, and talks about what happens when a generation sees an image so powerful it can't look away -- or back.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:826:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/163366_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:06:02</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JonathanKlein_2010U.mp4" length="20690046" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JonathanKlein_2010U-64k.mp4" duration="362" fileSize="2984647" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JonathanKlein_2010U-180k.mp4" duration="362" fileSize="8228822" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JonathanKlein_2010U-320k.mp4" duration="362" fileSize="14419154" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JonathanKlein_2010U-450k.mp4" duration="362" fileSize="20415431" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JonathanKlein_2010U-600k.mp4" duration="362" fileSize="27154703" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JonathanKlein_2010U-950k.mp4" duration="362" fileSize="42158306" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JonathanKlein_2010U-1500k.mp4" duration="362" fileSize="65689231" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Jonathan Klein</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/163366_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pointing to the future of UI | John Underkoffler</title>
+      <link>https://www.ted.com/talks/john_underkoffler_drive_3d_data_with_a_gesture</link>
+      <pubDate>Tue, 01 Jun 2010 08:40:00 +0000</pubDate>
+      <description><![CDATA[Minority Report science adviser and inventor John Underkoffler demos g-speak -- the real-life version of the film's eye-popping, tai chi-meets-cyberspace computer interface. Is this how tomorrow's computers will be controlled?]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:872:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/174124_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:22</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JohnUnderkoffler_2010.mp4" length="52210545" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JohnUnderkoffler_2010-64k.mp4" duration="922" fileSize="7570212" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JohnUnderkoffler_2010-180k.mp4" duration="922" fileSize="21052036" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JohnUnderkoffler_2010-320k.mp4" duration="922" fileSize="37259000" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JohnUnderkoffler_2010-450k.mp4" duration="922" fileSize="52040647" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JohnUnderkoffler_2010-600k.mp4" duration="922" fileSize="69623874" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JohnUnderkoffler_2010-950k.mp4" duration="922" fileSize="109484494" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JohnUnderkoffler_2010-1500k.mp4" duration="922" fileSize="170239321" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">John Underkoffler</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/174124_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The lost art of democratic debate | Michael Sandel</title>
+      <link>https://www.ted.com/talks/michael_sandel_the_lost_art_of_democratic_debate</link>
+      <pubDate>Mon, 07 Jun 2010 09:01:00 +0000</pubDate>
+      <description><![CDATA[Democracy thrives on civil debate, Michael Sandel  says -- but we're shamefully out of practice. He leads a fun refresher, with TEDsters sparring over a recent Supreme Court case (PGA Tour Inc. v. Martin) whose outcome reveals the critical ingredient in justice.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:878:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6db1aec1b352a51fbf806c2c0a33c221f1435e21_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:19:42</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/MichaelSandel_2010.mp4" length="66809662" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/MichaelSandel_2010-64k.mp4" duration="1182" fileSize="9683736" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/MichaelSandel_2010-180k.mp4" duration="1182" fileSize="26932959" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/MichaelSandel_2010-320k.mp4" duration="1182" fileSize="47655710" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/MichaelSandel_2010-450k.mp4" duration="1182" fileSize="66639767" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/MichaelSandel_2010-600k.mp4" duration="1182" fileSize="89060239" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/MichaelSandel_2010-950k.mp4" duration="1182" fileSize="137215870" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/MichaelSandel_2010-1500k.mp4" duration="1182" fileSize="214733645" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Michael Sandel</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6db1aec1b352a51fbf806c2c0a33c221f1435e21_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The beauty of data visualization | David McCandless</title>
+      <link>https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization</link>
+      <pubDate>Mon, 23 Aug 2010 09:02:00 +0000</pubDate>
+      <description><![CDATA[David McCandless turns complex data sets (like worldwide military spending, media buzz, Facebook status updates) into beautiful, simple diagrams that tease out unseen patterns and connections. Good design, he suggests, is the best way to navigate information glut -- and it may just change the way we see the world.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:937:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/192641_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:56</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidMcCandless_2010G.mp4" length="62341603" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidMcCandless_2010G-64k.mp4" duration="1076" fileSize="9042912" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidMcCandless_2010G-180k.mp4" duration="1076" fileSize="25055508" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidMcCandless_2010G-320k.mp4" duration="1076" fileSize="44264667" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidMcCandless_2010G-450k.mp4" duration="1076" fileSize="62073124" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidMcCandless_2010G-600k.mp4" duration="1076" fileSize="83015832" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidMcCandless_2010G-950k.mp4" duration="1076" fileSize="127419703" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidMcCandless_2010G-1500k.mp4" duration="1076" fileSize="200121629" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David McCandless</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/192641_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Art of substance and absence | Alwar Balasubramaniam</title>
+      <link>https://www.ted.com/talks/alwar_balasubramaniam_sculpture_of_substance_and_absence</link>
+      <pubDate>Wed, 08 Sep 2010 08:38:00 +0000</pubDate>
+      <description><![CDATA[Alwar Balasubramaniam's sculpture plays with time, shape, shadow, perspective: four tricky sensations that can reveal -- or conceal -- what's really out there. At TEDIndia, the artist shows slides of his extraordinary installations.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:950:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/197283_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:16:51</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/AlwarBalasubramaniam_2009I.mp4" length="57496078" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/AlwarBalasubramaniam_2009I-64k.mp4" duration="1011" fileSize="8320242" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/AlwarBalasubramaniam_2009I-180k.mp4" duration="1011" fileSize="23095264" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/AlwarBalasubramaniam_2009I-320k.mp4" duration="1011" fileSize="40808538" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/AlwarBalasubramaniam_2009I-450k.mp4" duration="1011" fileSize="57227595" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/AlwarBalasubramaniam_2009I-600k.mp4" duration="1011" fileSize="76497270" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/AlwarBalasubramaniam_2009I-950k.mp4" duration="1011" fileSize="117529855" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/AlwarBalasubramaniam_2009I-1500k.mp4" duration="1011" fileSize="184914719" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Alwar Balasubramaniam</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/197283_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Shh! Sound health in 8 steps | Julian Treasure</title>
+      <link>https://www.ted.com/talks/julian_treasure_shh_sound_health_in_8_steps</link>
+      <pubDate>Thu, 23 Sep 2010 13:55:00 +0000</pubDate>
+      <description><![CDATA[Julian Treasure says our increasingly noisy world is gnawing away at our mental health -- even costing lives. He lays out an 8-step plan to soften this sonic assault (starting with those cheap earbuds) and restore our relationship with sound.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:965:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/201524_819x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:07:14</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JulianTreasure_2010G.mp4" length="24922937" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JulianTreasure_2010G-64k.mp4" duration="434" fileSize="3568070" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JulianTreasure_2010G-180k.mp4" duration="434" fileSize="9839720" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JulianTreasure_2010G-320k.mp4" duration="434" fileSize="17440519" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JulianTreasure_2010G-450k.mp4" duration="434" fileSize="24635418" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JulianTreasure_2010G-600k.mp4" duration="434" fileSize="33319618" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JulianTreasure_2010G-950k.mp4" duration="434" fileSize="50449528" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JulianTreasure_2010G-1500k.mp4" duration="434" fileSize="79522459" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Julian Treasure</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/201524_819x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The history of our world in 18 minutes | David Christian</title>
+      <link>https://www.ted.com/talks/david_christian_big_history</link>
+      <pubDate>Mon, 11 Apr 2011 14:00:00 +0000</pubDate>
+      <description><![CDATA[Backed by stunning illustrations, David Christian narrates a complete history of the universe, from the Big Bang to the Internet, in a riveting 18 minutes. This is "Big History": an enlightening, wide-angle look at complexity, life and humanity, set against our slim share of the cosmic timeline.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1118:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3feaf5a930ecff54d82d3ef0ec5f5e41379098df_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:40</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/DavidChristian_2011.mp4" length="59971643" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/DavidChristian_2011-64k.mp4" duration="1060" fileSize="8688805" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/DavidChristian_2011-180k.mp4" duration="1060" fileSize="24169844" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/DavidChristian_2011-320k.mp4" duration="1060" fileSize="42805916" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/DavidChristian_2011-450k.mp4" duration="1060" fileSize="59801747" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/DavidChristian_2011-600k.mp4" duration="1060" fileSize="79971277" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/DavidChristian_2011-950k.mp4" duration="1060" fileSize="122769191" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/DavidChristian_2011-1500k.mp4" duration="1060" fileSize="192393200" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">David Christian</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3feaf5a930ecff54d82d3ef0ec5f5e41379098df_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The conscience of television | Lauren Zalaznick</title>
+      <link>https://www.ted.com/talks/lauren_zalaznick</link>
+      <pubDate>Fri, 16 Sep 2011 15:12:27 +0000</pubDate>
+      <description><![CDATA[TV executive Lauren Zalaznick thinks deeply about pop television. Sharing results of a bold study that tracks attitudes against TV ratings over five decades, she makes a case that television reflects who we truly are -- in ways we might not have expected.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1224:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/96e412ca73275c71b912f19e27d634aba1086e3a_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:13:12</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/LaurenZalaznick_2010W.mp4" length="44941113" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/LaurenZalaznick_2010W-64k.mp4" duration="792" fileSize="6497377" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/LaurenZalaznick_2010W-180k.mp4" duration="792" fileSize="18022273" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/LaurenZalaznick_2010W-320k.mp4" duration="792" fileSize="31866339" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/LaurenZalaznick_2010W-450k.mp4" duration="792" fileSize="44666501" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/LaurenZalaznick_2010W-600k.mp4" duration="792" fileSize="59449252" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/LaurenZalaznick_2010W-950k.mp4" duration="792" fileSize="91477871" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/LaurenZalaznick_2010W-1500k.mp4" duration="792" fileSize="143688372" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Lauren Zalaznick</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/96e412ca73275c71b912f19e27d634aba1086e3a_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Doodlers, unite! | Sunni Brown</title>
+      <link>https://www.ted.com/talks/sunni_brown</link>
+      <pubDate>Fri, 23 Sep 2011 13:43:20 +0000</pubDate>
+      <description><![CDATA[Studies show that sketching and doodling improve our comprehension -- and our creative thinking. So why do we still feel embarrassed when we're caught doodling in a meeting? Sunni Brown says: Doodlers, unite! She makes the case for unlocking your brain via pad and pen.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1230:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fd0d1e7c83665bc55a853528b5d6469c0f07ef49_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:05:50</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/SunniBrown_2011.mp4" length="19885634" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/SunniBrown_2011-64k.mp4" duration="350" fileSize="2853839" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/SunniBrown_2011-180k.mp4" duration="350" fileSize="7856355" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/SunniBrown_2011-320k.mp4" duration="350" fileSize="13958328" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/SunniBrown_2011-450k.mp4" duration="350" fileSize="19770352" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/SunniBrown_2011-600k.mp4" duration="350" fileSize="26657670" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/SunniBrown_2011-950k.mp4" duration="350" fileSize="40685082" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/SunniBrown_2011-1500k.mp4" duration="350" fileSize="62619696" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Sunni Brown</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fd0d1e7c83665bc55a853528b5d6469c0f07ef49_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FBI, here I am! | Hasan Elahi</title>
+      <link>https://www.ted.com/talks/hasan_elahi</link>
+      <pubDate>Mon, 31 Oct 2011 15:15:48 +0000</pubDate>
+      <description><![CDATA[After he ended up on a watch list by accident, Hasan Elahi was advised by his local FBI agents to let them know when he was traveling. He did that and more ... much more.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1258:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c43091837a164f28d10925f2f4ab961d38ccc577_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:14:30</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/HasanElahi_2011G.mp4" length="49442062" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/HasanElahi_2011G-64k.mp4" duration="870" fileSize="7110814" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/HasanElahi_2011G-180k.mp4" duration="870" fileSize="19695341" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/HasanElahi_2011G-320k.mp4" duration="870" fileSize="34921916" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/HasanElahi_2011G-450k.mp4" duration="870" fileSize="49154559" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/HasanElahi_2011G-600k.mp4" duration="870" fileSize="65741486" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/HasanElahi_2011G-950k.mp4" duration="870" fileSize="101111692" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/HasanElahi_2011G-1500k.mp4" duration="870" fileSize="157634252" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Hasan Elahi</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c43091837a164f28d10925f2f4ab961d38ccc577_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The secret structure of great talks | Nancy Duarte</title>
+      <link>https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks</link>
+      <pubDate>Sun, 05 Feb 2012 14:58:38 +0000</pubDate>
+      <description><![CDATA[From the "I have a dream" speech to Steve Jobs' iPhone launch, many great talks have a common structure that helps their message resonate with listeners. In this talk, presentation expert Nancy Duarte shares practical lessons on how to make a powerful call-to-action.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1347:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4d96597f70b464108bc2224c2c9ee6f717f150af_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:10</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/NancyDuarte_2011X.mp4" length="62221715" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/NancyDuarte_2011X-64k.mp4" duration="1090" fileSize="8962085" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/NancyDuarte_2011X-180k.mp4" duration="1090" fileSize="24875573" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/NancyDuarte_2011X-320k.mp4" duration="1090" fileSize="43996506" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/NancyDuarte_2011X-450k.mp4" duration="1090" fileSize="61812394" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/NancyDuarte_2011X-600k.mp4" duration="1090" fileSize="82423469" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/NancyDuarte_2011X-950k.mp4" duration="1090" fileSize="127216653" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/NancyDuarte_2011X-1500k.mp4" duration="1090" fileSize="198991722" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Nancy Duarte</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4d96597f70b464108bc2224c2c9ee6f717f150af_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Designing books is no laughing matter. OK, it is. | Chip Kidd</title>
+      <link>https://www.ted.com/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is</link>
+      <pubDate>Wed, 04 Apr 2012 15:16:25 +0000</pubDate>
+      <description><![CDATA[Chip Kidd doesn't judge books by their cover, he creates covers that embody the book -- and he does it with a wicked sense of humor. In this deeply felt (and deeply hilarious) talk, he shares the art and the philosophy behind his cover designs. (This talk is from The Design Studio session at TED2012, guest-curated by Chee Pearlman and David Rockwell.)]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1410:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3fc44b4b82d5e8e138072c366204f8245641777f_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:17:16</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ChipKidd_2012.mp4" length="58584967" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ChipKidd_2012-64k.mp4" duration="1036" fileSize="8490964" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ChipKidd_2012-180k.mp4" duration="1036" fileSize="23619438" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ChipKidd_2012-320k.mp4" duration="1036" fileSize="41799728" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ChipKidd_2012-450k.mp4" duration="1036" fileSize="58415077" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ChipKidd_2012-600k.mp4" duration="1036" fileSize="78127131" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ChipKidd_2012-950k.mp4" duration="1036" fileSize="122802638" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ChipKidd_2012-1500k.mp4" duration="1036" fileSize="191216703" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Chip Kidd</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3fc44b4b82d5e8e138072c366204f8245641777f_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>From stigma to supermodel | Rick Guidotti</title>
+      <link>https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel</link>
+      <pubDate>Sun, 06 May 2012 15:41:54 +0000</pubDate>
+      <description><![CDATA[Rick Guidotti is a fashion photographer with a passion project: finding and sharing the beauty of kids with albinism and other conditions that affect their physical appearance -- and the way society treats them. At TEDxPhoenix, he shares some of their stories and the empowering effects of a little glamour as he redefines their beauty in a flash.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1439:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:18:04</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/RickGuidotti_2011X.mp4" length="61786571" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/RickGuidotti_2011X-64k.mp4" duration="1084" fileSize="8902515" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/RickGuidotti_2011X-180k.mp4" duration="1084" fileSize="24699013" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/RickGuidotti_2011X-320k.mp4" duration="1084" fileSize="43675260" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/RickGuidotti_2011X-450k.mp4" duration="1084" fileSize="61377223" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/RickGuidotti_2011X-600k.mp4" duration="1084" fileSize="81880653" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/RickGuidotti_2011X-950k.mp4" duration="1084" fileSize="126408708" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/RickGuidotti_2011X-1500k.mp4" duration="1084" fileSize="196525605" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Rick Guidotti</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>One year of turning the world inside out | JR</title>
+      <link>https://www.ted.com/talks/jr_one_year_of_turning_the_world_inside_out</link>
+      <pubDate>Fri, 18 May 2012 15:05:46 +0000</pubDate>
+      <description><![CDATA[Street artist JR made a wish in 2011: Join me in a worldwide photo project to show the world its true face. One year after making his TED Prize wish, he shows how giant posters of human faces, pasted in public, are connecting communities, making change, and turning the world inside out.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1451:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d162a0bccdb3d51dc7c6442c49a9058a9b1f725d_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:06:31</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/JR_2012.mp4" length="22144785" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/JR_2012-64k.mp4" duration="391" fileSize="3183178" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/JR_2012-180k.mp4" duration="391" fileSize="8769263" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/JR_2012-320k.mp4" duration="391" fileSize="15568593" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/JR_2012-450k.mp4" duration="391" fileSize="22029634" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/JR_2012-600k.mp4" duration="391" fileSize="29634565" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/JR_2012-950k.mp4" duration="391" fileSize="45212614" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/JR_2012-1500k.mp4" duration="391" fileSize="69859124" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">JR</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d162a0bccdb3d51dc7c6442c49a9058a9b1f725d_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to air-condition outdoor spaces | Wolfgang Kessling</title>
+      <link>https://www.ted.com/talks/wolfgang_kessling_how_to_air_condition_outdoor_spaces</link>
+      <pubDate>Fri, 22 Jun 2012 15:00:02 +0000</pubDate>
+      <description><![CDATA[During the hot summer months, watching an outdoor sports match or concert can be tantamount to baking uncomfortably in the sun -- but it doesn't have to be. At the TEDxSummit in Doha, physicist Wolfgang Kessling reveals sustainable design innovations that cool us from above and below, and even collects solar energy for later use.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1483:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1d41276f4e353a5da88e8981b84734c1ed7109d0_615x461.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:11:35</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/WolfgangKessling_2012S.mp4" length="39588376" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/WolfgangKessling_2012S-64k.mp4" duration="695" fileSize="5723480" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/WolfgangKessling_2012S-180k.mp4" duration="695" fileSize="15873758" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/WolfgangKessling_2012S-320k.mp4" duration="695" fileSize="28040706" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/WolfgangKessling_2012S-450k.mp4" duration="695" fileSize="39319897" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/WolfgangKessling_2012S-600k.mp4" duration="695" fileSize="52645720" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/WolfgangKessling_2012S-950k.mp4" duration="695" fileSize="81381620" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/WolfgangKessling_2012S-1500k.mp4" duration="695" fileSize="125580990" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Wolfgang Kessling</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1d41276f4e353a5da88e8981b84734c1ed7109d0_615x461.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The levitating superconductor | Boaz Almog</title>
+      <link>https://www.ted.com/talks/boaz_almog_levitates_a_superconductor</link>
+      <pubDate>Mon, 02 Jul 2012 15:25:39 +0000</pubDate>
+      <description><![CDATA[How can a super-thin 3-inch disk levitate something 70,000 times its own weight? In a riveting demonstration, Boaz Almog shows how a phenomenon known as quantum locking allows a superconductor disk to float over a magnetic rail -- completely frictionlessly and with zero energy loss. Experiment: Prof. Guy Deutscher, Mishael Azoulay, Boaz Almog, of the High Tc Superconductivity Group, School of Physics and Astronomy, Tel Aviv University.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1495:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b9693798223a4101be834398af15df5560d3f25c_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:10:25</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/BoazAlmog_2012G.mp4" length="35572906" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/BoazAlmog_2012G-64k.mp4" duration="625" fileSize="5138475" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/BoazAlmog_2012G-180k.mp4" duration="625" fileSize="14255575" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/BoazAlmog_2012G-320k.mp4" duration="625" fileSize="25158698" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/BoazAlmog_2012G-450k.mp4" duration="625" fileSize="35304433" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/BoazAlmog_2012G-600k.mp4" duration="625" fileSize="47345564" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/BoazAlmog_2012G-950k.mp4" duration="625" fileSize="74219347" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/BoazAlmog_2012G-1500k.mp4" duration="625" fileSize="115339080" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Boaz Almog</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b9693798223a4101be834398af15df5560d3f25c_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>I listen to color | Neil Harbisson</title>
+      <link>https://www.ted.com/talks/neil_harbisson_i_listen_to_color</link>
+      <pubDate>Fri, 20 Jul 2012 15:00:38 +0000</pubDate>
+      <description><![CDATA[Artist Neil Harbisson was born completely color blind, but these days a device attached to his head turns color into audible frequencies. Instead of seeing a world in grayscale, Harbisson can hear a symphony of color -- and yes, even listen to faces and paintings.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1512:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d06593f2820b67dbb5abfceaa20aa8240d779850_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:09:35</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/NeilHarbisson_2012G.mp4" length="32900647" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/NeilHarbisson_2012G-64k.mp4" duration="575" fileSize="4750177" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/NeilHarbisson_2012G-180k.mp4" duration="575" fileSize="13188452" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/NeilHarbisson_2012G-320k.mp4" duration="575" fileSize="23271379" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/NeilHarbisson_2012G-450k.mp4" duration="575" fileSize="32632170" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/NeilHarbisson_2012G-600k.mp4" duration="575" fileSize="43741679" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/NeilHarbisson_2012G-950k.mp4" duration="575" fileSize="68614210" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/NeilHarbisson_2012G-1500k.mp4" duration="575" fileSize="106424996" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Neil Harbisson</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d06593f2820b67dbb5abfceaa20aa8240d779850_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Talk nerdy to me | Melissa Marshall</title>
+      <link>https://www.ted.com/talks/melissa_marshall_talk_nerdy_to_me</link>
+      <pubDate>Thu, 11 Oct 2012 15:00:14 +0000</pubDate>
+      <description><![CDATA[Melissa Marshall brings a message to all scientists (from non-scientists): We're fascinated by what you're doing. So tell us about it -- in a way we can understand. In just 4 minutes, she shares powerful tips on presenting complex scientific ideas to a general audience.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1592:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a8d46be076dd754d8c9b40fc4b8ab3bebbef56ef_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:04:34</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/MelissaMarshall_2012G.mp4" length="15479554" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/MelissaMarshall_2012G-64k.mp4" duration="274" fileSize="2257030" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/MelissaMarshall_2012G-180k.mp4" duration="274" fileSize="6231309" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/MelissaMarshall_2012G-320k.mp4" duration="274" fileSize="11076724" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/MelissaMarshall_2012G-450k.mp4" duration="274" fileSize="15309650" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/MelissaMarshall_2012G-600k.mp4" duration="274" fileSize="20724766" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/MelissaMarshall_2012G-950k.mp4" duration="274" fileSize="31771571" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/MelissaMarshall_2012G-1500k.mp4" duration="274" fileSize="51469609" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Melissa Marshall</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a8d46be076dd754d8c9b40fc4b8ab3bebbef56ef_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The long reach of reason | Steven Pinker</title>
+      <link>https://www.ted.com/talks/steven_pinker_and_rebecca_newberger_goldstein_the_long_reach_of_reason</link>
+      <pubDate>Mon, 17 Mar 2014 15:00:05 +0000</pubDate>
+      <description><![CDATA[Here's a TED first: an animated Socratic dialog! In a time when irrationality seems to rule both politics and culture, has reasoned thinking finally lost its power? Watch as psychologist Steven Pinker is gradually, brilliantly persuaded by philosopher Rebecca Newberger Goldstein that reason is actually the key driver of human moral progress, even if its effect sometimes takes generations to unfold. The dialog was recorded live at TED, and animated, in incredible, often hilarious, detail by Cognitive.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1948:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15c7eb5d420725735ca16bde3942d84f276abb25_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:15:24</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/StevenPinker_2012.mp4" length="52587574" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/StevenPinker_2012-64k.mp4" duration="924" fileSize="7568171" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/StevenPinker_2012-180k.mp4" duration="924" fileSize="20976494" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/StevenPinker_2012-320k.mp4" duration="924" fileSize="37160375" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/StevenPinker_2012-450k.mp4" duration="924" fileSize="52300223" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/StevenPinker_2012-600k.mp4" duration="924" fileSize="69935861" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/StevenPinker_2012-950k.mp4" duration="924" fileSize="109794997" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/StevenPinker_2012-1500k.mp4" duration="924" fileSize="169843071" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Rebecca Newberger Goldstein</media:credit><media:credit role="speaker">Steven Pinker</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15c7eb5d420725735ca16bde3942d84f276abb25_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>It's TED, the Musical | The TED Staff</title>
+      <link>https://www.ted.com/talks/daffodil_hudson_is_this_the_cure_for_stage_fright</link>
+      <pubDate>Tue, 01 Apr 2014 04:00:57 +0000</pubDate>
+      <description><![CDATA[Do you have a TED Talk inside, just bursting to come out? Take this tongue-in-cheek musical journey to "Give Your Talk." A musical love letter to our speakers -- written, directed and performed by the TED staff.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:1962:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cfa8ec527e9bb37dca7d5513ab829f25c246b52d_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:04:37</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/TEDMusical_2014.mp4" length="16879294" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/TEDMusical_2014-64k.mp4" duration="277" fileSize="2300097" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/TEDMusical_2014-180k.mp4" duration="277" fileSize="6410301" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/TEDMusical_2014-320k.mp4" duration="277" fileSize="11277695" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/TEDMusical_2014-450k.mp4" duration="277" fileSize="15803827" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/TEDMusical_2014-600k.mp4" duration="277" fileSize="21005554" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/TEDMusical_2014-950k.mp4" duration="277" fileSize="33105261" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/TEDMusical_2014-1500k.mp4" duration="277" fileSize="51589031" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">The TED Staff</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cfa8ec527e9bb37dca7d5513ab829f25c246b52d_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How augmented reality will change sports ... and build empathy | Chris Kluwe</title>
+      <link>https://www.ted.com/talks/chris_kluwe_how_augmented_reality_will_change_sports_and_build_empathy</link>
+      <pubDate>Thu, 22 May 2014 15:00:59 +0000</pubDate>
+      <description><![CDATA[Chris Kluwe wants to look into the future of sports and think about how technology will help not just players and coaches, but fans. Here the former NFL punter envisions a future in which augmented reality will help people experience sports as if they are directly on the field -- and maybe even help them see others in a new light, too.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:2007:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9b43acda94d7e3743aa877ca5b492862b860fb28_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:09:11</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/ChrisKluwe_2014.mp4" length="31337558" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/ChrisKluwe_2014-64k.mp4" duration="551" fileSize="4515230" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/ChrisKluwe_2014-180k.mp4" duration="551" fileSize="12479662" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/ChrisKluwe_2014-320k.mp4" duration="551" fileSize="22121548" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/ChrisKluwe_2014-450k.mp4" duration="551" fileSize="31222345" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/ChrisKluwe_2014-600k.mp4" duration="551" fileSize="41871695" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/ChrisKluwe_2014-950k.mp4" duration="551" fileSize="65591359" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/ChrisKluwe_2014-1500k.mp4" duration="551" fileSize="101237135" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Chris Kluwe</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9b43acda94d7e3743aa877ca5b492862b860fb28_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A dance in a hurricane of paper, wind and light | Aakash Odedra</title>
+      <link>https://www.ted.com/talks/aakash_odedra_a_dance_in_a_hurricane_of_paper_wind_and_light</link>
+      <pubDate>Fri, 05 Dec 2014 16:00:35 +0000</pubDate>
+      <description><![CDATA[Choreographer Aakash Odedra is dyslexic and has always felt that his best expression comes through movement. “Murmur” is his ode to that experience, teaming up with co-creators Lewis Major and Ars Electronica Futurelab. Watch him spin his way through the center of a storm, as pages of books take flight all around him.]]></description>
+      <guid isPermaLink="false">en.video.talk.ted.com:2147:7</guid>
+      <itunes:image url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7473637e6d3633391419b9a2406dc876d170c191_800x600.jpg?w=615&amp;h=461" />
+      <itunes:duration>00:09:50</itunes:duration>
+      <enclosure url="https://download.ted.com/talks/AakashOdedra_2014G.mp4" length="33473124" type="video/mp4" />
+      <media:group>
+        <media:content url="https://download.ted.com/talks/AakashOdedra_2014G-64k.mp4" duration="590" fileSize="4962703" type="video/mp4" bitrate="64" />
+        <media:content url="https://download.ted.com/talks/AakashOdedra_2014G-180k.mp4" duration="590" fileSize="13473381" type="video/mp4" bitrate="180" />
+        <media:content url="https://download.ted.com/talks/AakashOdedra_2014G-320k.mp4" duration="590" fileSize="23684126" type="video/mp4" bitrate="320" />
+        <media:content url="https://download.ted.com/talks/AakashOdedra_2014G-450k.mp4" duration="590" fileSize="33357945" type="video/mp4" bitrate="450" />
+        <media:content url="https://download.ted.com/talks/AakashOdedra_2014G-600k.mp4" duration="590" fileSize="44860411" type="video/mp4" bitrate="600" />
+        <media:content url="https://download.ted.com/talks/AakashOdedra_2014G-950k.mp4" duration="590" fileSize="70467757" type="video/mp4" bitrate="950" />
+        <media:content url="https://download.ted.com/talks/AakashOdedra_2014G-1500k.mp4" duration="590" fileSize="105364322" type="video/mp4" bitrate="1500" />
+        <media:credit role="speaker">Aakash Odedra</media:credit>
+        <media:thumbnail url="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7473637e6d3633391419b9a2406dc876d170c191_800x600.jpg?w=132&amp;h=99" width="132" height="99"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>

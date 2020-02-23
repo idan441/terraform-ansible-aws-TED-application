@@ -1,0 +1,7 @@
+[nginx]
+bitnami@ec2-18-189-6-135.us-east-2.compute.amazonaws.com
+
+
+[java8]
+ec2-user@ec2-18-221-15-149.us-east-2.compute.amazonaws.com
+
