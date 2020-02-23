@@ -56,7 +56,7 @@ If you are new to Terraform and Ansible I recommend starting by making the key-p
 
 ## Terraform - 
 Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a datacenter infrastructure using a high-level configuration language known as Hashicorp Configuration Language, or optionally JSON.
-![terraform logo](./images-for-readme/terraform.png)
+!(terraform logo)[./images-for-readme/terraform.png]
 
 
 In this example, Terraform will be used in order to make a Virtual Private Cloud (VPC) in Amazon Web Services (aws) . 
@@ -115,7 +115,7 @@ In order for the server to be accessed by the Ansible script from you local mach
 
 ## Ansible - 
 Ansible is an open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration. 
-![ansible logo](./images-for-readme/ansible.png)
+!(ansible logo)[./images-for-readme/ansible.png]
 
 In this example Ansible will configure the two EC2 instances created by the Terraform script - 
 * It will configure the JRE EC2 instance to run the TED application. 
