@@ -193,7 +193,7 @@ All tasks are in the playbook.yml file, including full explanation. The files us
 ## An important note - Desclaimer - 
 Using AWS cloud services cost cash!!! Make sure to terminate the instances when finishing the use of them! Or else you will pay for it... 
 Also note, that this example is using AMIs which, at the time of making this exmaple, are free - but the price of them can change. 
-By running this script, you take full responsibility on any expanse and any cost done by this example. 
+By running this script, you take full responsibility on any expanse and any cost resulted by running this example. 
 
 **Make sure to destroy all resources by typing the command ```terraform destroy``` while in the terraform directory. Also connect physically to the aws console - and make sure no resource are left!**
 
