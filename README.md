@@ -2,9 +2,9 @@
 
 This example, will show how to use two new brand technologies - Terraform and Ansible. Both technologies are new and well-adapted in the Hi-Tech industry, mainly by DevOps roles. This example will teach you the fundemental basics of both these technologies. Also, I will be explaining some interesting concepts of networking and using Amazon Web Services (AWS) which is an important cloud provider at the industry. 
 
-** I have been adding many explanations along the Terraform and Ansible script in order to make it as easy to understand as possible. In this example I explain step by step how to use both Terraform and Ansible, assuming you have no prior knowledge or experience with these two technologies. **
+*** I have been adding many explanations along the Terraform and Ansible script in order to make it as easy to understand as possible. In this example I explain step by step how to use both Terraform and Ansible, assuming you have no prior knowledge or experience with these two technologies. ***
 
-** The main explanations and knowledge is written in the files ```main.tf``` and ```playbook.yml``` , near the commands themselves. ** 
+*** The main explanations and knowledge is written in the files ```main.tf``` and ```playbook.yml``` , near the commands themselves. *** 
 
 
 # The example will create a full cloud solution using Terraform and Ansible - 
@@ -36,6 +36,10 @@ java -jar embedash-1.1-SNAPSHOT.jar --spring.config.location=./application.prope
 java -jar embedash-1.1-SNAPSHOT.jar #Without the properties file
 ```
 
+![example for TED application running locally on the computer with the properties file](./images-for-readme/ted-application.png) 
+
+
+
 
 
 ## Fast Run Instructions - 
@@ -56,6 +60,7 @@ If you are new to Terraform and Ansible I recommend starting by making the key-p
 
 ## Terraform - 
 Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a datacenter infrastructure using a high-level configuration language known as Hashicorp Configuration Language, or optionally JSON.
+
 ![terraform logo](./images-for-readme/terraform.png)
 
 
@@ -115,6 +120,7 @@ In order for the server to be accessed by the Ansible script from you local mach
 
 ## Ansible - 
 Ansible is an open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration. 
+
 ![ansible logo](./images-for-readme/ansible.png)
 
 In this example Ansible will configure the two EC2 instances created by the Terraform script - 
@@ -184,9 +190,11 @@ All tasks are in the playbook.yml file, including full explanation. The files us
 
 
 
-## An important note - 
+## An important note - Desclaimer - 
 Using AWS cloud services cost cash!!! Make sure to terminate the instances when finishing the use of them! Or else you will pay for it... 
 Also note, that this example is using AMIs which, at the time of making this exmaple, are free - but the price of them can change. 
 By running this script, you take full responsibility on any expanse and any cost done by this example. 
 
-Make sure to destroy all resources by typing the command ```terraform destroy``` while in the terraform directory. Also connect physically to the aws console - and make sure no resource are left! 
+****Make sure to destroy all resources by typing the command ```terraform destroy``` while in the terraform directory. Also connect physically to the aws console - and make sure no resource are left! ****
+
+
